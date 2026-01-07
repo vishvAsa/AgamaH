@@ -35,14 +35,13 @@ The nAga sAdhu-s are dashanAmi advaitin-s by origin and have multiple yoga akhAD
 > In this series by an esteemed Śāṅkara Vedāntī of Vṛndāvana, it is made clear that while samādhi by itself is not considered a prerequisite for mukti in that school, Pātañjala sign-posts of progress are yet recognized as having utility.
 
 In terms of pAta~njala yoga, shaMkara himself wrote the pAta~njala-yogashAstra-vivaraNa; of course, it was not physical yoga emphasized by later dashanami traditions.
-
 </details>
 
 <details><summary>अनिरुद्धः (द्रष्टुं नोद्यम्)</summary>
 
 I've heard that northern advaitins, especially those centred around places like Haridvār continue to heavily emphasize the yoga aspect over viveka aspect to this day. You might have come across the derisive phrase "puriñjāl pōdum vedāntam" to refer to the viveki type approach.  
 
-Surprisingly, some of the vocal advaitins of TN (who are arguably not associated with traditional institutions) seem to have a very different split compared to their northern counterparts. The yoga-māraga oriented folks (as examplified by Śrī Kṛṣṇapremī??) swear by the nāma-mārga of Śrī Bodhendra Sarasvatī while the Vivekī pakṣa (epitomised by the likes of Dayanand Sarasvati and Omkārānanda) seem to have been somewhat dismissive of both
+Surprisingly, some of the vocal advaitins of TN (who are arguably not associated with traditional institutions) seem to have a very different split compared to their northern counterparts. The yoga-māraga oriented folks (as examplified by Śrī Kṛṣṇapremī??) swear by the nāma-mārga of Śrī Bodhendra Sarasvatī while the Vivekī pakṣa (epitomised by the likes of Dayanand Sarasvati) seem to have been somewhat dismissive of both.
 </details>
 
 
