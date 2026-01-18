@@ -24,7 +24,10 @@ And of the square, one angle is the property of Rhea, another of Hera,
 and the other angles are associated with other deities.  
 And this is the complete theological definition of figures.
 
+
 ## Proclus
+Proclus adds in his commentary on Euclid that the goddesses Rhea, Hestia, and Demeter are associated with the vertices of a square. There might have been a 4th goddess whose name is now lost.
+
 Gregory Shaw explaining Proclus' understanding of the yantriform figures of the yavana-s, which he alludes to in his "bhAShya" on Euclid (137-138). The "constellations" is Shaw's speculation. It is not clear if that's what Proclus meant. He could be talking celestial paths:
 
 > To each god, he (Proclus) concludes, there are appropriate symbols and shapes (In Euclidem, 138, 21-22). One may assume, therefore, that each god was associated with a geometric figure that appeared in the heavens "at critical moments," and that these figures (constellations?) were employed at such times in some form of theurgic worship.
