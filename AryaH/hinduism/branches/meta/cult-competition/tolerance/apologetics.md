@@ -83,15 +83,44 @@ This inscription is found in three Jain bastis of Karnataka according to [Epigra
 - "Dharmaswamin’s account gives a good insight into Hindu-Buddhist relations in India in the twilight of the Buddhist faith in India. The picture that one can glean from it is that, though there was religious competition between the faiths in terms of whose sadhakas were more accomplished in siddhis  and such things, there weren’t great social tensions between the Buddhists and non-Buddhists. Dharmaswamin specifically mentions 10 that the monks of the Sangha were given alms by the Non- Buddhists and revered by them. We also learn that education in Nalanda continued even after the Islamic onslaught due to the munificence of a rich Brahmana Jayadeva.  Dharmaswamin also mentions 11 that the Raja of Tirhut, Rama Simha, a devout Hindu himself, asked for the former to become his preceptor. The general portrayal in his account doesn’t suggest any great social tension between the two groups. " \[[R14](http://rang1985.blogspot.in/2014/09/unmaking-historiography-at-nalanda.html?m=1)\]
 
 ## shaiva-vaiShNava rivalry
-- Claim: "vaiShNava temples of hampi were destroyed by shaiva-s. The Tuluva dynasty was staunchly Vaishnavite, which is thought to have given rise to sectarian disturbances in the traditionally Saivite Hampi." Reason:
+Claim: 
+
+> "vaiShNava temples of hampi were destroyed by shaiva-s. The Tuluva dynasty was staunchly Vaishnavite, which is thought to have given rise to sectarian disturbances in the traditionally Saivite Hampi." 
+
+Data is biased - 
+
+kaDalekALu gaNesha and the sAsivekALu gaNesha, which were ruined shaiva shrines - lay abandoned to this day. Saiva complex of hemakuta have been badly destroyed in hampi.
+
 - hindu-s are not iconoclasts, and it is not something praised by their holy texts - so it would be out of character.
-- "to this day the area around Hampi, Anegondi have Islamic names and the foot soldiers who allegedly vandalised the sculptures were rewarded on the degree of the damage they did, I was told, that there exists an inscription of a Jagir awarding an equivalent of 17 acres of land for cutting the trunk of an elephant's sculpture... The one Vaishnavite temple which is on the highway near Kampli, was abandoned during construction due to the fall of the empire and its priest's family took the idol to their family home in a village around fifty kms away. "
-- kaDalekALu gaNesha and the sAsivekALu gaNesha, which were ruined shaiva shrines - lay abandoned to this day.
+
+
+
+Negotiation from popularity - 
+
+> The virupaksha complex and cakratirtha rama - two old temples of the region were saved by ghorpade as per local legends. - ravilochana
+
+> It could very easily have been that locals negotiated with the invaders to not *completely* destroy the Virupaksha complex. The Vaishnava temples, otoh, were more recent constructions which did not have the same level of local popularity because it was relatively new. 
+> 
+> According to local folklore, the Muslims did not enter the premises due to the presence of boar engravings on the temple walls. - TW
+
+
+> "to this day the area around Hampi, Anegondi have Islamic names and the foot soldiers who allegedly vandalised the sculptures were rewarded on the degree of the damage they did, I was told, that there exists an inscription of a Jagir awarding an equivalent of 17 acres of land for cutting the trunk of an elephant's sculpture... 
+> 
+> The one Vaishnavite temple which is on the highway near Kampli, was abandoned during construction due to the fall of the empire and its priest's family took the idol to their family home in a village around fifty kms away. "
+
 
 ### rAmAnuja vs krimikaNDa
-- "The Chola king about this time was krimikaNDa and he was a staunch Saivite. He ordered Ramanuja to subscribe to his faith in Siva and acknowledge Siva as the Supreme Lord. Two of the disciples of Ramanuja, Kuresa and Mahapurna, donned the orange robes of Sannyasins and visited the court of krimikaNDa in place of Ramanuja. They argued there for the superiority of Vishnu. The monarch refused to hear them and had their eyes put out."  
-- " the chola king krimikantha was most probably not kulottunga I but one of the usurpers who rules before kulottunga. Kulottunga I was not anti vaishnava. He worshipped narasimha very much with great devotion as per his own inscriptions.."  
-    - The above was an exception to the general norm of supreme mutual tolerance - it wrong to generalize it.
+
+Story - 
+
+> "The Chola king about this time was krimikaNDa and he was a staunch Saivite. He ordered Ramanuja to subscribe to his faith in Siva and acknowledge Siva as the Supreme Lord. Two of the disciples of Ramanuja, Kuresa and Mahapurna, donned the orange robes of Sannyasins and visited the court of krimikaNDa in place of Ramanuja. They argued there for the superiority of Vishnu. The monarch refused to hear them and had their eyes put out."  
+
+
+Not kulottunga -
+
+> " the chola king krimikantha was most probably not kulottunga I but one of the usurpers who rules before kulottunga. Kulottunga I was not anti vaishnava. He worshipped narasimha very much with great devotion as per his own inscriptions.."  
+
+The above was an exception to the general norm of supreme mutual tolerance - it is wrong to generalize it.
 
 ### Govindaraja of chidambaram
 - Removal of govindarAja idol out of chidambaram temple complex.
