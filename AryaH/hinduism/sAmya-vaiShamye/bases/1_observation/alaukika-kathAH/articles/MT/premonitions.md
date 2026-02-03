@@ -2,6 +2,12 @@
 title = "Premonitions"
 +++
 
+## Crash
+Source: [TW](https://x.com/blog_supplement/status/2018533750477381991)
+
+I just read the case of the Colombian singer having repeated dreams of dying in a plane crash and subsequently meeting his end as dreamt. He was not flying the plane himself.  Sometimes one gets a premonitory omen but is still unable to do anything about it and is inexorably drawn towards one's ill-fate. Have personally experienced such.
+
+## Irish woman
 Source: [TW](https://x.com/blog_supplement/status/2013106764636360991)
 
 Pasting below a peculiar tale of premonition experienced by a woman in Ireland in the late 1800s, with the death of a steerage passenger from a fire on a boat from fatty pig meat. Copied from a British psychical journal:
