@@ -130,15 +130,29 @@ The above was an exception to the general norm of supreme mutual tolerance - it 
 ### mAmallapuram vandalisms/ take-overs by vaiShNava-s
 - Target examples
 - Ramanuja Mandapa, Mamallapuram was originally a shaiva temple, but was vandalized and taken over by vaiShNava-s.
-- " Vaishnavas - destroyed relics and established Vishnu temple here during the times of Vijayanagara Empire. In process the beautiful sculptures were chiseled away - but new values were not installed." 
-- "The sanctums inside this Mandapa doesn’t have any deities in them. They might probably have been removed while these cave being attacked. The front façade which has a striking dissimilarity with the rest of the construction was originally built during the Vijayanagara empire (1409-1542). However due to some unknown reasons the construction wasn’t carried out further."
-- "Even after being vandalized, an inscription praising Rudra(Shiva) was found on the floor of this cave and it reads as "Six times cursed be those in whose hearts does not dwell Rudra (Shiva), the deliverer from the walking on the evil path" . It is quite intriguing that after being the idol is removed and the sanctum is completely destroyed, the inscription was not rubbed off the rock."
-    - References 
-        - ‘Cave Temples of the Pallavas’ by K.R. Srinivasan, 1964
+
+> Vaishnavas - destroyed relics and established Vishnu temple here during the times of Vijayanagara Empire. In process the beautiful sculptures were chiseled away - but new values were not installed.  
+> "The sanctums inside this Mandapa doesn’t have any deities in them. They might probably have been removed while these cave being attacked. The front façade which has a striking dissimilarity with the rest of the construction was originally built during the Vijayanagara empire (1409-1542). However due to some unknown reasons the construction wasn’t carried out further.  
+> Even after being vandalized, an inscription praising Rudra(Shiva) was found on the floor of this cave and it reads as "Six times cursed be those in whose hearts does not dwell Rudra (Shiva), the deliverer from the walking on the evil path" . It is quite intriguing that after being the idol is removed and the sanctum is completely destroyed, the inscription was not rubbed off the rock.
+- References 
+    - ‘Cave Temples of the Pallavas’ by K.R. Srinivasan, 1964
+
 - koneri maNDapa \[[FB](https://www.facebook.com/trippingovercurry/photos/np.1443995292403550.689472988/1155684517779444/?type=3&ref=notif&notif_t=notify_me_page)\]
 - Lore from the vaiShNava side (via [Ravilochanan](https://www.facebook.com/ravilochanan.aiyangar?hc_location=ufi), [FB discussion](https://www.facebook.com/trippingovercurry/photos/a.718947964786437.1073741828.718166618197905/1152786744735888/?type=3&comment_id=1156236857724210)):
-- The cave shaiva sculptures were destroyed during vnagar period by some vaishnava fanatics. Later the local vaishnava acharya cane to know abt this. And put a stop to such practice. So other shaiva caves escaped. Shaiva vaishnava rivalry was high in mamallapuram even from pallava era. Parameshvaravarman changed a few vaisnava caves to shaiva during his reign. Then he also had an inscription carved in a famous varaaha shrine that those who don't worship and accept Rudra as greatest god, is moksha pradaataa, go to hell. It says they are cursed six times or so. Taken to mean diff types of hell by some scholars. The vaisnavas of the area were supposedly very angry at these insults. When during early part of vnagar rule the town became v majority. The vanniyar vaisnavas are known to have caused havoc there. Running amok destroying the biggest shaiva cave Sthalasayana achaarya, the Sri vaisnava achaarya, of the town put an end to this.
-- A note on the sources: The so called hagiographical texts of sthalasayana acharyas mention it, I am told.. No published work as of yet.. As far as I know only koil ozhugu of srirangam has been published till now.. Other similar texts remain unpublished and in danger of being lost forever. In case of ramanuja mantapa, no vaishnava or shaiva published text metionsit AFAIK.. Its called as vaisnava act as the outer walls have sankha and chakra carved in them..
+
+> The cave shaiva sculptures were destroyed during vnagar period by some vaishnava fanatics. Later the local vaishnava acharya came to know abt this. And put a stop to such practice. So other shaiva caves escaped. 
+> 
+> Shaiva vaishnava rivalry was high in mamallapuram even from pallava era. Parameshvaravarman changed a few vaisnava caves to shaiva during his reign. Then he also had an inscription carved in a famous varaaha shrine that those who don't worship and accept Rudra as greatest god, is moksha pradaataa, go to hell. 
+> 
+> It says they are cursed six times or so. Taken to mean diff types of hell by some scholars. The vaisnavas of the area were supposedly very angry at these insults. 
+> 
+> When during early part of vnagar rule the town became v majority. The vanniyar vaisnavas are known to have caused havoc there. Running amok destroying the biggest shaiva cave. Sthalasayana achaarya, the Sri vaisnava achaarya, of the town put an end to this.
+
+> A note on the sources: The so called hagiographical texts of sthalasayana acharyas mention it, I am told.. No published work as of yet.. 
+> 
+> As far as I know only koil ozhugu of srirangam has been published till now.. Other similar texts remain unpublished and in danger of being lost forever. 
+> 
+> In case of ramanuja mantapa, no vaishnava or shaiva published text metions it AFAIK.. Its called as vaisnava act as the outer walls have sankha and chakra carved in them..
 
 #### Apologetic
   - They were minor, Few and rare.
