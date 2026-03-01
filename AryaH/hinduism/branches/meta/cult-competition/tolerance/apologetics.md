@@ -118,14 +118,25 @@ Story -
 
 Not kulottunga -
 
-> " the chola king krimikantha was most probably not kulottunga I but one of the usurpers who rules before kulottunga. Kulottunga I was not anti vaishnava. He worshipped narasimha very much with great devotion as per his own inscriptions.."  
+> the chola king krimikantha was most probably not kulottunga I but one of the usurpers who rules before kulottunga.  It was some nameless bastard who had usurped the chola throne after death of Adirajendra and before kulottunga consolidated his power.
+> 
+> Kulottunga I was not anti vaishnava. He worshipped narasimha very much with great devotion as per his own inscriptions. 
+> 
+> Not AdirAjendra either (as proposed separately by nIlakaNTha & jayashrI).
+> 
+> -RL 
 
 The above was an exception to the general norm of supreme mutual tolerance - it is wrong to generalize it.
 
+
+
 ### Govindaraja of chidambaram
 - Removal of govindarAja idol out of chidambaram temple complex.
-- Claim: "during the reign of Kulothunga Chola-II, a Saivite, the idol of Govindaraja Perumal was dumped in the sea. When it was reinstalled later by a chieftain of the Vijayanagar empire, as many as 20 Dikshitars committed suicide as a mark of protest."
-- "In another movie, Dasavataram, Kamal Hassan portrays the Śaivas and the Śaiva king Kulöttuṅga Chöḷa as religious fanatics who persecuted the Vaiṣṇavas. Kulöttuṅga is also portrayed as a selective iconoclast who casts away the mūrti of Śri Gövindarāja from the Chidambaram Temple into the sea, an anachronistic claim first made in a late medieval work by the Śaiva partisan Oṭṭakkūttar. Epigraphic evidence confirms that Kulöttuṅga patronized numerous Vaiṣṇava temples making it unlikely that he could have been intolerant towards Vaiṣṇavism. In all likelihood, this claim was no more than a literary fiction by the partisan Oṭṭakkūttar amplified by later Vaiṣṇava hagiographers in the milieu of the non-violent Śaiva-Vaiṣṇava rivalry." \- KV.
+
+> Being told that it was the shrine of Govinda Raja lying there, he replied smartly that the place for the lying of Vishnu was not the [[43]] front yard of the temple of Naṭarāja, his favourite deity, but the sea, and ordered therefore that the Vishnu image might be cast into the sea. The order was probably carried out literally. This could have been only somewhere about A.D. 1135 or 1136, the year of acession of Kulottunga II.
+
+> "during the reign of Kulothunga Chola-II, a Saivite, the idol of Govindaraja Perumal was dumped in the sea. When it was reinstalled later by a chieftain of the Vijayanagar empire, as many as 20 Dikshitars committed suicide as a mark of protest."
+
 
 ### mAmallapuram vandalisms/ take-overs by vaiShNava-s
 - Target examples
@@ -140,11 +151,22 @@ The above was an exception to the general norm of supreme mutual tolerance - it 
 - koneri maNDapa \[[FB](https://www.facebook.com/trippingovercurry/photos/np.1443995292403550.689472988/1155684517779444/?type=3&ref=notif&notif_t=notify_me_page)\]
 - Lore from the vaiShNava side (via [Ravilochanan](https://www.facebook.com/ravilochanan.aiyangar?hc_location=ufi), [FB discussion](https://www.facebook.com/trippingovercurry/photos/a.718947964786437.1073741828.718166618197905/1152786744735888/?type=3&comment_id=1156236857724210)):
 
+
+> Shaiva vaishnava rivalry was high in mamallapuram even from pallava era. Parameshvaravarman changed a few vaisnava caves to shaiva during his reign (notably the conversion of so called mahishamardini cave into a saiva). Archaeologist experts say so based on the way the cave has been excavated and changed. 
+> 
+> "Now if the right cell is for Shiva and left for Brahma then it can be said that the central cell should be dedicated to Vishnu. However in this cell we have a Somaskanda panel and out of it are two dvarpalas carrying club and proper right dvarpala is shown with outer prongs of trisula (so called horned profile) and proper left dvarpala is shown with protruding axe-blade in his headdress. However the way these dvarpalas are carved, there are few things of interest. The club of the proper right dvarpala is carved where the pilaster should be, which suggests that these niches were originally meant for Vaishnava dvarpalas, without clubs, however in later stages when Shaivism was in prominence then these were converted into Shaiva dvarpalas somehow trying to accommodate in the same niche."  
+> Source: [TW](https://web.archive.org/web/20120421061449/http://puratattva.in/2010/08/04/mahabalipuram-the-workshop-of-pallavas-part-ii-44.html)
+> 
+> 
+> 
+> Then he also had an inscription carved in a famous varaaha shrine- "‘Six times cursed be those in whose hearts does not dwell Rudra (Shiva), the deliverer from the walking on the evil path.’"  
+> Taken to mean diff types of hell by some scholars.
+
+
+
 > The cave shaiva sculptures were destroyed during vnagar period by some vaishnava fanatics. Later the local vaishnava acharya came to know abt this. And put a stop to such practice. So other shaiva caves escaped. 
 > 
-> Shaiva vaishnava rivalry was high in mamallapuram even from pallava era. Parameshvaravarman changed a few vaisnava caves to shaiva during his reign. Then he also had an inscription carved in a famous varaaha shrine that those who don't worship and accept Rudra as greatest god, is moksha pradaataa, go to hell. 
-> 
-> It says they are cursed six times or so. Taken to mean diff types of hell by some scholars. The vaisnavas of the area were supposedly very angry at these insults. 
+> The vaisnavas of the area were supposedly very angry at parameshvara-varman's insults. 
 > 
 > When during early part of vnagar rule the town became v majority. The vanniyar vaisnavas are known to have caused havoc there. Running amok destroying the biggest shaiva cave. Sthalasayana achaarya, the Sri vaisnava achaarya, of the town put an end to this.
 
