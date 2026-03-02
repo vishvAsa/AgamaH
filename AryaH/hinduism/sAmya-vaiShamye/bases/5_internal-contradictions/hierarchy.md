@@ -293,10 +293,10 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
   - स्कन्द (१८)
 
 एकस्मिन्नेव श्लोके अष्टादशपुराणपरिचयः।
-<।details>
+</details>
 
 
-> Shiva purana is the latest entrant to the 18 purana list - replacing the much older vayu purana - post-gupta-era. As late as Harsha charita, vayu purana was in major use.  In the list of 18 we have today, vayu is replaced by siva.
+> Shiva purana is the latest entrant to the 18 purana list - replacing the much older vayu purana - post-gupta-era. As late as Harsha charita, vayu purana was in major use. In the list of 18 we have today, vayu is replaced by siva. - RL
 
 ## आगम-दौर्बल्यम्
 श्रुति-स्मृत्योर् अपेक्षया ऽऽगम-दौर्बल्यं तत्र तत्रागमैर् एवोक्तम्।  
@@ -309,7 +309,7 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
 ### वेद-बाह्य-विषयता
 In the kUrmapurANa (various Agama-s were said to be created because some men are excluded from the veda and incapable of following it).
 
->  KūrmP_1,15.109
+>  KūrmP_1,15.109  
 **न** वेदबाह्ये पुरुषे  
 पुण्यलेशो ऽपि शङ्कर ।  
 **संगच्छते** महादेव  
