@@ -2,7 +2,7 @@
 title: karma
 ---
 
-
+## Motivation
 Reincarnation (punarjanma), heaven, hell and the notion of karma (actions bearing fruit in this or a future life) were important because:
 
 - They helped explain why some people are, in some respects, more fortunate than others.
@@ -12,9 +12,12 @@ Reincarnation (punarjanma), heaven, hell and the notion of karma (actions bearin
     - "The Prakarana-pancika of Salikanatha, one of the early works of the Prabhakara Mimansa school, affirms that in such sentences as 'one desirous of heaven should perform the Jyotistoma the rite is simply commended by Vedic passages, which are no more than arthavadas, as a means of securing long-enduring happiness which is free from the taint of all kinds of sorrow and which is present at the mere desire of the enjoyer." \[[PVK](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.4/Kane_A-History-of-Dharmasastra-v4_1953#page/n207/mode/2up)\]
     - "The Shantiparva expressly states 'The wise do not regard the other world as directly seen by anyone; one has to entertain faith (in the existence of the other world) because otherwise one may run counter to the Vedas.'" \[[PVK](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.4/Kane_A-History-of-Dharmasastra-v4_1953#page/n207/mode/2up)\]
 
+## Reconciliation with pratyaxa
 When does the fruit arise?
 
 - Not necessarily in this life \[[TR](https://archive.org/stream/TantraRatnaTupitikaBhashyaParthasarathiMisharaGopinathKavirajVolume2SampoornanadUniversity/Tantra%20Ratna%20Tupitika%20Bhashya%20Parthasarathi%20Mishara%20Gopinath%20Kaviraj%20Volume%202%20Sampoornanad%20University#page/n27/mode/2up), [4,3.28 KB](https://archive.org/stream/in.ernet.dli.2015.368819/2015.368819.Tupuutiikaa#page/n49/mode/2up)\]. shabara disagrees in case of certain vaidika karma-s - \[[GJ](https://archive.org/stream/ShabaraBhasyaTrByGanganathJha/Shabara%20Bhasya%20tr%20by%20Ganganath%20Jha%20Vol%202#page/n125/mode/2up), [4,3.28 W](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%AC%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D_%E0%A5%A7-%E0%A5%AA_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%83), [SB](https://archive.org/stream/Bibliotheca_Indica_Series/MimansaDarsanaWithSabarabhashya-MahesachandraNyayaratna1889bis#page/n575/mode/2up)\].
+
+> Cheaters do get ahead, honest do struggle. Karma is real, so is ability, power. Only those who are honest, and not smart at the same time, imagine that they’d get things for being a good person. Being a good or bad person is absolutely irrelevant to achieving things in life. - mohit
 
 ## Heaven and Hell
 
