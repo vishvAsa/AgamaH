@@ -2,6 +2,11 @@
 title = "siddhiH"
 +++
 
+## Familial transmission
+Source: [TW](https://x.com/blog_supplement/status/2035929320674201805)
+
+Anecdotally, it is interesting that mantra-siddha-s often seem to transmit something to their offspring. It usually lasts about 2 generations downwards. It is not the siddhi itself, but maybe some physical effect of it or some reconfiguration of it, albeit mixed in with some degenerations or negatives. I don't fully understand why this is so.
+
 ## Group
 Source: [TW](https://twitter.com/blog_supplement/status/1735509258219762066)
 
