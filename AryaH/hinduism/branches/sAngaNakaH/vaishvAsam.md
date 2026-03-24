@@ -14,19 +14,13 @@ Short url - https://rebrand.ly/vaishvAsam
   - जीवस्य स्वाभाविकस्य दास्यस्य ज्ञानेन बन्धस्य मोक्षस्य च कलनम्।
 - देव-तत्त्व-निर्णयः।
 
-<details><summary>सम्बद्धचर्चा</summary>
-
-- २०१७-पाठः कश्चन [+अत्र](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#) - version history इति द्रष्टव्यम्।
-</details>
-
-
 
 ### मङ्गलश्लोकः
 ॥ॐ हयग्रीवाय नमः॥  
 पदार्थेषु भवेज् ज्ञानं  
 जीर्णं कुब्जं न धिक्कृतम्।  
 इति काले नवीकर्तुं  
-युक्तिं देहि गजानन॥  
+युक्तिं देहि हयानन॥  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -3683,3 +3677,10 @@ the only thing really worth working on is one's self.
 **अर्थः** पुरुषार्थान्तर-साधनम्।  
 **मोक्षः** पर-प्राप्तिः।  
 भगवति प्रपत्त्या, परया भक्त्या वा।  
+
+<details><summary>सम्बद्धचर्चा</summary>
+
+- २०१७-पाठः कश्चन [+अत्र](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#) - version history इति द्रष्टव्यम्।
+</details>
+
+
