@@ -281,7 +281,7 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
 > मद्वयं भद्वयं चैव ब्रत्रयं वचतुष्टयम् ।  
 अनापलिङ्गकूस्कानि पुराणानि प्रचक्षते ।।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)<।summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - मद्वयम्  
   - १- मत्स्य (१)
