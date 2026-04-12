@@ -9,7 +9,7 @@ One must also consider other valid (\*and\* appropriate) sources of knowledge in
 
 - the historical and current practices and understandings of respected role-models
 - direct observation and experience.
-- Comparative mythology - See reconciliation page.
+- Comparative mythology - See [reconciliation](/mImAMsA/karma-kANDam/12-adhyAyAH/bodhaH/nyAyaH/prakIrNam) page.
 
 Once one has deduced the recommendations and knowledge of the shAstra-s, one has to determine the knowledge that applies to one's particular context. In doing this, the differences between the context of creation and one's own situation.
 

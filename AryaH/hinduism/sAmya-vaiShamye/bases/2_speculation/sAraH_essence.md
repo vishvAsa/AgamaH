@@ -67,4 +67,4 @@ Source: [TW](/AgamaH_shaivaH/abheda-darshanam/praty-abhijnA/utpaladevaH_Ishvara-
 </details>
 
 ## प्रकीर्ण-तन्त्राणि
-द्रष्टव्यम् - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/reconciliation)।
+द्रष्टव्यम् - [तात्पर्य-निर्णय-पृष्ठे](/mImAMsA/karma-kANDam/12-adhyAyAH/bodhaH/tAtparyanirNayaH) ।
