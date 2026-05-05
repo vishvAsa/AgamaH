@@ -160,6 +160,20 @@ A good religion ought to consider understanding nature (not just AtmA and the Go
 
 तेनान्ततो ऽयं विश्वासः प्रत्यक्षमूलक एव।
 
+<details><summary>English</summary>
+
+> Whose path flows, unbroken and known to all,  
+Where noble people are not averse to association, conversation, and discourse.  
+Whose desired actions are performed without fear of the populace or of the assembly,  
+And whose form does not flash forth as if newly risen (with arrogance).  
+
+> Inspired utterance and an uncommon nature shine forth,  
+Where greed and other vices are not the root.  
+For such sacred texts (or traditions), this is the path to authority,  
+And not just any which way (or, found everywhere).
+</details>
+
+
 <details><summary>Picking a base tradition</summary>
 
 Traditional attempts can provide a good basis.
