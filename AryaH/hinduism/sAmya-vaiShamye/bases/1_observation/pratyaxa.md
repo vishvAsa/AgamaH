@@ -7,8 +7,11 @@ title: प्रत्यक्षम् Direct witness
 
 > ‘‘न हि दृष्टे ऽनुपपन्नं नाम’’
 
-- The pratyaxa of one person is always of questionable utility to another - Depends on the reliability and relatability of the experiencer vis-a-vis the other.
+## Universality level
+The pratyaxa of one person is always of questionable utility to another - Depends on the reliability and relatability of the experiencer vis-a-vis the other.
 
+## Hierarchy & strength 
+See elsewhere - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/scope) .
 
 ## Biology
 Lessons from biology are very important for superior understanding of a lot of issues in human society (ranging from mate selection, family dynamics, social structure, child rearing, memetic epidemics like Abe's diseases, sexual orientation, police brutality, violence, carnivorism etc..). Indeed, in our past we see savants like viShNusharman and vyAsa teach us nIti with reference to animal behavior. One of the reasons why natural religions like ours are superior to counter religions like buddhism, Abe's diseases and their successors like SJWism and communism stems from the fact that they are better adapted to our true "nature" (which is largely grounded in biology). The mAnasatarangiNIkAra is a rare savant who sees this clearly.
@@ -27,3 +30,12 @@ Lessons from biology are very important for superior understanding of a lot of i
 इति विचिकित्सा परिह्रियेततराम् -  
 तस्यापीश्वर-प्रणीतत्व-स्मारणेन। 
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+ऋचो᳓ अक्ष᳓रे परमे᳓ वि᳓ओमन्  
+य᳓स्मिन् देवा᳓ अ᳓धि वि᳓श्वे निषेदुः᳓  
+य᳓स् त᳓न् न᳓ वे᳓द कि᳓म् ऋचा᳓ करिष्यति  
+य᳓ इ᳓त् त᳓द् विदु᳓स् त᳓ इमे᳓ स᳓म् आसते
+</div>  
+
+इत्य् एतद् एवोक्तम्। 

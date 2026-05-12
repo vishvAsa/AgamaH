@@ -27,10 +27,18 @@ title = "Scope"
 किन्तु, न्यायस्य वचनाशयावगताव् उपकारकता वर्तते। तद् [अन्यत्रोक्तम्](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/2_speculation/sAraH_essence) । 
 
 ## प्रत्यक्षानुमान-व्याप्तिः
-प्रमाणान्तरगम्ये तु शास्त्रप्राधान्यं न वर्ततय् इत्य् अतस्  
+प्रमाणान्तरगम्ये तु शास्त्र-प्राधान्यं न वर्ततय्  
+
+इत्य् अतस्  
 तत्र विरोधः शक्यः।
 यथा - भूगोल-विषयः शास्त्रैकगम्यविषयो नास्ति -  
 अतः, शास्त्रं दुर्बलं प्रमाणान्तरविरुद्धम् प्रधानार्थे त्याज्यम्।
+
+It is standard mImAMsA that  
+pratyaxa can and does cancel direct meanings of shAstras,  
+forcing one to resort to secondary or suggested meanings.
+
+
 
 Direct observation (extensible to experimental science) and inference is a valuable source of knowledge in some cases (even mokSha according to some), but not in others.
 
@@ -43,7 +51,15 @@ Literal understanding of sayings in the veda-s and shAstra-s, contradicting dire
 
 is oft quoted.
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+ऋचो᳓ अक्ष᳓रे परमे᳓ वि᳓ओमन्  
+य᳓स्मिन् देवा᳓ अ᳓धि वि᳓श्वे निषेदुः᳓  
+य᳓स् त᳓न् न᳓ वे᳓द कि᳓म् ऋचा᳓ करिष्यति  
+य᳓ इ᳓त् त᳓द् विदु᳓स् त᳓ इमे᳓ स᳓म् आसते
+</div>  
+
+इत्यत्र प्रत्यक्षस्य ग्रन्थगतस्यापेक्षया बलम् एवोच्यते।
 
 रामानुज-वेङ्कटनाथाद्य्-उक्तयो [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA
 /vishvAsaH/pramANAni) ।
@@ -72,9 +88,14 @@ is oft quoted.
 
 इत्य् अपि न वक्तुं शक्यम्।
 
+### शास्त्र-विशेषेषु
+व्याकरणे परस्य परस्य च प्रामाण्यम् अङ्गीकृतम्।
 
-### Ancient applications
+
+### ज्योतिषे
 - appayya vs bhaTTatiri argument about heliocentricism [KV](https://agnimaan.wordpress.com/2016/06/24/appayya-and-the-stationary-earth/).
-- Example: Ayurveda in moving from mantra-vyapaashraya to yukti-vyapaashraya ridiculed "people who seek proof for medicines in mantras". (vAgbhaTa 40-86 and 40-88 , [BVP-discussion](https://groups.google.com/d/msg/bvparishat/Z0v53lMq9rY/c8soadfnBgAJ).)
 - In jyotiSha for eg. they emphasized imp of observation and correction.
   - Ancient mathematical approximations for planetary positions prove inadequate when we directly observe these positions.
+
+### आयुर्वेदे
+- Example: Ayurveda in moving from mantra-vyapaashraya to yukti-vyapaashraya ridiculed "people who seek proof for medicines in mantras". (vAgbhaTa 40-86 and 40-88 , [BVP-discussion](https://groups.google.com/d/msg/bvparishat/Z0v53lMq9rY/c8soadfnBgAJ).)
