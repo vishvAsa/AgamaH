@@ -208,7 +208,11 @@ Other quotes in BG 16.
 शिष्टाचारा अनुमित-स्मृतयः।  
 यथा - होलिकोत्सवादिषु शिष्टाचारेषु मीमांसकैः लुप्त-श्रुति-स्मृती अनुमीयेते। 
 
-- Where the shiShTa behavior is clearly in conflict with shruti etc.., it should be deprecated (eg medhAtithi on manu ["येनास्य पितरो याता"](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200283.html) ).
+Where the shiShTa behavior is clearly in conflict with shruti etc.., it should be deprecated (eg medhAtithi on manu ["येनास्य पितरो याता"](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200283.html) ) - 
+
+> ‘The path of the righteous.’—This has been added with a view to emphasize the fact that, if one’s forefathers may have followed an unrighteous path, one shall not follow such a practice, in such cases.—(178).
+
+
 
 ### आख्यायिका-प्राधान्यम् बुद्धि-वैकल्ये
 सुबोधतरतया पामरदृष्ट्या शिष्टाचारो मुख्यतरम् प्रमाणम् भवितुम् अर्हति।  
