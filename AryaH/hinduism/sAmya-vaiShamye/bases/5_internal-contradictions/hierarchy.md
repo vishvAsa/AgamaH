@@ -6,6 +6,13 @@ title = "Hierarchy"
 
 (तत्र तत्र बलीयस्त्व-वाक्यान्य् उदाह्रियन्ते - बील्यस्-स्थाने हि, यथा वेदभागे वेद-बलीयस्त्व-वचनम्, स्मृति-भागे स्मृति-बलीयस्त्व-वचनम् … । )
 
+
+## अनुमानम्
+अनुमानं न स्वतन्त्रम् प्रमाणम् -  
+तन् नाम्नैव ज्ञायते।  
+अनुमानं प्रत्यक्षं शब्दं वानुसरेत्।  
+न कदाचिद् अपि स्वमूलम् उपरोद्धुं शक्नोति। 
+
 ## प्रत्यक्षम् अनुमानोपबृंहितम्
 
 एतद्-व्याप्ति-बले ऽन्यत्र प्रोक्ते - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/scope)
@@ -201,7 +208,7 @@ Other quotes in BG 16.
 शिष्टाचारा अनुमित-स्मृतयः।  
 यथा - होलिकोत्सवादिषु शिष्टाचारेषु मीमांसकैः लुप्त-श्रुति-स्मृती अनुमीयेते। 
 
-- Where the shiShTa behavior is clearly in conflict with shruti etc.., it should be deprecated according to some (eg medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200283.html) ).
+- Where the shiShTa behavior is clearly in conflict with shruti etc.., it should be deprecated (eg medhAtithi on manu ["येनास्य पितरो याता"](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200283.html) ).
 
 ### आख्यायिका-प्राधान्यम् बुद्धि-वैकल्ये
 सुबोधतरतया पामरदृष्ट्या शिष्टाचारो मुख्यतरम् प्रमाणम् भवितुम् अर्हति।  
