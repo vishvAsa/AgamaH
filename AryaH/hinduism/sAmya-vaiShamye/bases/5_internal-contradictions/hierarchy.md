@@ -398,6 +398,8 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 ## शिष्टाचारः
 शिष्टाचारे सामान्य-विषया उपरि आचाराख्यायिकासु दृश्याः।  
 
+[विधुशेखरभारती २०२६](https://youtu.be/oSkZmLTghEM?si=xz_tuvglo_nPuVJv) ।
+
 ### देशतस् तारतम्यम्
 तत्रापि देशतस् तारतम्यं वर्तते।   
 
@@ -415,7 +417,7 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 तं देव-निर्मितं देशं  
 ब्रह्मावर्तं प्रचक्षते ॥  
 यस्मिन् देशे य आचारः  
-पारम्-पर्य-क्रमागतः ।  
+पारम्पर्य-क्रमागतः ।  
 वर्णानां सान्तरालानां  
 सदाचारः स उच्यते ॥
 
@@ -427,7 +429,7 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 
 > ये तु कलिवर्ज्यतया मांसश्राद्धे विवदन्ते  
 स्तेयान्य-महा-पातक-निष्कृतिर् इति कलि-वर्ज्यतयोक्तम् अपि  
-ब्रह्म-हत्या--तत्-संसर्ग-प्रायश्चित्तं धनलोभाद् उपदिशन्ति,  
+ब्रह्म-हत्या--तत्-संसर्ग-प्रायश्चित्तं धन-लोभाद् उपदिशन्ति,  
 मातृ-स-पिण्डानयने च न विवदन्ते  
 राग-शेष-दूषित-चेतसो देवानां प्रियास्  
 ते केन शिक्षणीया  
@@ -436,6 +438,14 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 इति महामहोपाध्याय-श्रीविद्या-निवास-भट्टाचार्यात्मज- विश्व-नाथ-शर्म-कृतो मांस-तत्त्वविवेकः। 
 </details>
 
+#### अप्रमा
+> देशे देशे य आचारः  
+पारम्पर्यक्रमागतः।  
+स शास्त्रार्थ-बलान्नैव  
+लङ्घनीयः कदाचन॥
+
+इति नारदस्मृताव् असहाय-टीकायाम् प्रक्षिप्तं केचिद् उदाहरन्ति।  
+Contradicts with all established dharmashAstra and their classic commentaries, including medhAtithi
 
 
 ## क्रमाः
