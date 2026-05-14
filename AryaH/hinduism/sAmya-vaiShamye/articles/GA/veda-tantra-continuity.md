@@ -5,16 +5,21 @@ Source: [TW](https://x.com/GhorAngirasa/status/1925872890492154056)
 
 
 Fact is, it is the Āgamika-Tāntrika religion that saved the Vaidika-Paurāņika religion.  
+
+
+## Contribution into vaidika stream
 Firstly, it supplemented the latter in the form of material incorporated into the Purāņas.
 
 Secondly, the developed methods in Tantrāgama have been incorporated into vaidika praxis (nyāsa, mudras, etc).
 
+## Upāsanas, Sāńkhyā
 Thirdly, when the Aupanișada Vidyās and Upāsanas had mostly died off due to broken transmission, it is the Upāsanakrama of the Tantrāgama that was adopted by the Yatis of the different schools of Vedānta: Śrīvidyā by the Advaitīs, Pāñcarātra by the Vaișņavas.
 
 Tantrāgama massively built on Sāńkhyā and its Tattvajñāna has proven to be an invaluable supplement to the Dharma as a whole.
 
 Those who think Tantrāgama is about worship or Kșūdradevatas have zero idea of what they are discussing.
 
+## Popularization
 Even outside the realm of theology, Tantrāgama has helped the Vaidika-Paurāņika religion. For example, Kāmikāgama has a whole chapter dedicated to gifting qualified Vipras for their Vedic learning.
 
 It is to the credit of Siddhānta (which falls under Tantrāgama) that Vedic institutions were supported in TN by groups across the board and a large group of non-Brāhmaņas became teetotalers and took up an Ācāra that was compatible with Vaidikācāra.
@@ -23,10 +28,13 @@ Who do you think made large swathes of people adopt such an Ācāra? Vaidikas?
 
 No. It’s the Ācāryas of the Siddhānta who drew upon the power of Śiva to impress Vaidikācāra and its associated norms and habits on large groups of families, which were otherwise untouched by Vaidikācāra. The Pāñcarātra too made similar contributions.
 
+## Pure Vaidika fiction
 Pure Vaidika is a rhetorical device and fiction, not reality. “We follow only Vedic injunctions Saar”—joining Utsavamūrti’s procession and reciting Śatarudriyam behind the Utsavamūrti is under which injunction? Performing Caṇḍiyāga or going deep into Lalitāsahasranāma’s commentarial tradition falls under which Vaidika injunction?
 
+## Pūrvamīmāmsakas
 Pūrvamīmāmsakas were not fond of temples (as can be seen in the manubhāșya of Medhātithi) but when temples became the beating heart of Dharma and the grand force which sustained even Vaidikam (temples did so much for Vaidikas who are forever indebted to Hara and Hari for this), their spiritual descendants switched to “temple okay bro but Tantrāgama is not”.
 
+### sattra
 One is reminded of a Śloka from Bhavișyapurāņa, which appears to have been inserted by a Devālayadveșī, which states that Sattras (very complex, often year-long Vedic sacrificial sessions performed by a group rather than an individual Yajamāna) should not be hosted by temples, probably the only institution which could have actually afforded to perform Sattras in the first place. Mātsarya/Jealousy…
 
 ## Distasteful veda?
@@ -57,3 +65,15 @@ Surāhutirbrahmasatre
 Pāśaveṣvapi śāstreṣu  
 > tadadarśi maheśinā
 🙂
+
+
+### Indolence
+There is unfortunately a whole lot of Hindus who have no clue about the complexity of Hindudharma outside the narrow, safe, PG version which alone they know.
+
+Śāstra-study, if undertaken seriously, can be of great help in broadening one’s horizons but only if they have this vāsanā: “I may not understand this or like this but I’m willing to humble myself and subordinate personal views born of my innate preferences (which are fallible) to views expressed in scriptures”.
+
+Without this Vāsanā, nothing will come out of even a hundred years of study.
+
+The worst are those who keep invoking the Veda as some exemplar of straightforwardly “clean and conservative” practices and throw around terms like “avaidika” and “vedabāhya”. Clearly, you have no idea of what the Veda contains. 
+
+The veda is actually a slave to your own prejudices though you falsely claim allegiance to its sovereignty.
