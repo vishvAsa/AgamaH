@@ -136,368 +136,1234 @@ My views on the fragments are then given separately. Those fragments which have 
 Following abbreviations have been used (General: Bhā/s = Bhāṣya/s, Comm/s = Commentary/ries, N = Namai, Ś = D.R. Shastri and Śl/s = Śloka/s). For others, see Abbreviations at the end.
 
 
-## TEXT
-
 ### A. Aphorisms and pseudo-aphorisms
 
 **I. भूतवाद**
+
+<details open><summary>मूलम्</summary>
+
 I.1. *अथातस्तत्त्वं व्याख्यास्यामः* (Ś 1, N A1)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TUS*, p. 1 (Franco p. 68); *NM*, Ch. 1, Part 1, p. 100.8; *GrBh* (on *NM*, Ch. 1), p. 100.20.
+</details>
+<details><summary>En</summary>
+
+I.1 We shall now explain the principles.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.2. *पृथिव्यापस्तेजोवायुरिति तत्त्वानि* (Ś 2, N A2)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 633; *MAP*, p. 99b (see, N, p. 38 n11 on A2–3); *LTN* (on 2.3), f. 24a; + *UBhPK*, p. 668; + *TSV* (on 1.98 and 1.104), pp. 27–28; *ŚBh* (with some variants) (on 3.3.54), p. 854; + *Bhām* (on *BS* 3.3.53), p. 854; *BSBh* (on *BS* 3.3.53), p. 196; *TUS*, p. 1 (Franco p. 68); + *NKC*, p. 341; + *PKM*, p. 116; + *PVA*, p. 54; + *GrBh* (on *NM*, Ch. 1), Part 1, p. 100.20; *PC*, Act 2, p. 40; *ST*, p. 13; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); + *SVR*, pp. 1075, 1086; *VPS*, p. 211; *TRD*, p. 307 (This and the following four aphorisms are also found in many philosophical digests such as *SDS*, p. 2). [[P8]]
+</details>
+<details><summary>En</summary>
+
+I.2 Earth, water, fire and air are the principles, nothing else.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.3. *तत्समुदाये शरीरेन्द्रियविषयसंज्ञाः* (Ś 2, N A3)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 634; *LTN*, f.24a; *UBhPK*, p. 668; *TUS*, p. 1 (Franco, p. 68); *TSV* (on 1.104), p. 28; *BSBh* (on *BS* 3.3.53), p. 196; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); *NKC*, p. 341; *PKM*, p. 116; + *PVA*, p. 54; *NVV*, p. 93; *TRD*, p. 307.
+</details>
+<details><summary>En</summary>
+
+I.3 Their combination is called the “body”, “sense” and “object”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.4. *तेभ्यश्चैतन्यम्* (Ś 3, N A4)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 633; + *UBhPK*, p. 668; + *TSV* (on 1.104), p. 28; *ŚBh* (on *BS* 3.3.53), p. 851; *BSBh* (on *BS* 3.3.53), p. 196; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); + *GrBh* (on *NM*, Ch. 7), Part 2, pp. 257–258; *NKC*, p. 341; + *PKM*, p. 116; + *PVA*, p. 54; + *NVV*, pp. 93, 106; + *ST*, p. 13; + *SVR*, pp. 1073, 1081; + *TRD*, p. 307.
+</details>
+<details><summary>En</summary>
+
+I.4 Consciousness (arises or is manifested) out of these.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.5. *किण्वादिभ्यो मदशक्तिवत्* (Ś 4, N A5)
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *LTN* (on 2.31), f.24a; + *UBhPK*, p. 668; *ŚBh* (on *BS* 3.3.53), p. 851 (with variants); + *SKSVṛ*, p. 11 (with variants); + *PrPañ*, p. 326; + *NM*, Ch. 7, Part 2, p. 217.23 (cf. p. 201.26); *BSBh* (on *BS* 3.3.53), p. 196; *SVT*, Part 1, pp. 283, 291; (cf. + *YTC*, pp. 252–253); *ĀLVṛ* (see, N, p. 38 n11 on A2–8); *NKC*, p. 342; *PKM*, p. 115; + *PVA*, p. 54; *ST*, p. 13; + *NVV*, pp. 93, 107; *SVR*, pp. 1073, 1086; *KB* p. 44; + *VK*, p. 854 (cf. *PrPa*, on *MS* 18.6; p. 64; *ṢDSam*, v. 84, p. 306; *TRD*, p. 307).
+</details>
+<details><summary>En</summary>
+
+I.5 As the power of intoxication (arises or is manifested) from the constituent parts of the wine (such as flour, water and molasses).
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.6. *चैतन्यविशिष्टः कायः पुरुषः* (Ś 7, N A10)
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *LTN*, f.24a; *ŚBh* (on *BS* 3.3.53), p. 851; (cf. on 1.1.1, pp. 81–82); + *PrPañ*, Ch. 8, p. 320; [*NM*, Ch 7, Part 2, p. 201.21]; + *Vyo*, Part 1, p. 137; + *NVV*, p. 93; *TRD*, p. 300 *GBhŚr* (on *Gītā* 16.11), p. 643; *GBhM* (on *Gītā* 16.11), p. 642 (cf. *देहमात्रं चैतन्यविशिष्टम् आत्मा*, *GBhM* (on *Gītā* 2.13), p. 48); *ABS*, Ch. 2, p. 99; *GBhN* (on *Gītā* 16.11–12), p. 642.
+</details>
+<details><summary>En</summary>
+
+I.6 The self is (nothing but) the body endowed with consciousness.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.7. *शरीराद् एव* (Ś 22, N A9)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TUS*, p. 88 [cf. *TS*, p. 635: *कायाद् एव*, which Ś quotes];
+</details>
+<details><summary>En</summary>
+
+I.7 From the body itself.
+</details>
+
+<details open><summary>मूलम्</summary>
+
 + I.8. *शरीरे भावात्*
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *ŚBh* (on *BS* 3.3.53), p. 851 (cf. Śaṅkara on *Pr. Up.* 6.2. p. 195).
+</details>
+<details><summary>En</summary>
+
+I.8 Because of the existence (of consciousness) where there is a body.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 I.9. *जलबुद्बुदवज्जीवः* (N A6)
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *LTN*, f.24a; [*UBhPK*, p. 668]; [*SKSVṛ*, p. 11], [*YTC*, p. 253]; *SVT*, pp. 283, 291; *NKC*, p. 342; *SVR*, p. 1074; *TRD*, p. 300.
+</details>
+<details><summary>En</summary>
+
+I.9 Souls are like water bubbles.
+</details>
+
+<br>
 
 **II. स्वभाववाद**
+
+<details open><summary>मूलम्</summary>
+
 II.1. *जन्मवैचित्र्यभेदाज्जगदपि विचित्रम्* (N A7)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *ĀLVṛ* (see, N, p. 38, n11 on A2–8).
+</details>
+<details><summary>En</summary>
+
+II.1 The world is varied due to the variation of origin.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 II.2. *मयूरचन्द्रकवत्* (N A8)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *ĀLVṛ* (see, N, p. 38, n11 on A2–8) (cf. *NVV*, Part 2, p. 106: *स्वभावादेव मयूरचित्रादिवत्* ...). [[P9]]
+</details>
+<details><summary>En</summary>
+
+II.2 As the eye in the peacock’s tail.
+</details>
+
+<br>
 
 **III. प्रत्यक्षप्रधान्यवाद**
+
+<details open><summary>मूलम्</summary>
+
 III.1. *प्रत्यक्षम् (एकम्) एव प्रमाणम्* (Ś 20, 25; N A13)
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *VABh*, Part 2, p. 439; + *TSP*, p. 945; + *UBhPK*, p. 668; *SKSVṛ*, pp. 10, 12; + *AS*, p. 36; + *SVT*, pp. 277, 293; *TBV*, Part 1, p. 73; *NKC*, p. 347; + *PKM*, pp. 177–178; *PC*, Act 2, p. 40; + *SVR*, p. 261; + *NSi* (on *Pr.Pañ.*, Ch. 6, v.1), p. 112; + *VPS*, p. 211 (Also found in *Mān.*, Ch. 5, v.1, p. 59; + *AYVD*, on v.20, p. 130; + *NTD*, p. 88; *SDS*, Ch. 1, p. 3; *SDK*, pp. 4, 108; *SMS*, p. 15; *ŚDSi*, p. 1).
+</details>
+<details><summary>En</summary>
+
+III.1 Perception indeed is the (only) means of right knowledge.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 III.2. *प्रमाणस्यागौणत्वाद् अनुमानाद् अर्थनिश्चयो दुर्लभः* (Ś 21, N D1)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 1, pp. 177, 183; *AS*, p. 36; *NBh*, p. 210; *Vyo.*, Part 2, p. 161; *TBV*, pp. 70, 72, 354; *PVSVT* p. 25; *PKM*, p. 178; *SVR*, pp. 261, 265.
+</details>
+<details><summary>En</summary>
+
+III.2 Since the means of right knowledge is to be non-secondary, it is difficult to ascertain an object by means of inference.
+</details>
+
+<br>
 
 **IV. पुनर्जन्मपरलोकविलोपवाद**
+
+<details open><summary>मूलम्</summary>
+
 + IV.1. *परलोकसिद्धौ प्रमाणाभावात्*
-  *SVR*, p. 1109 (cf. *UBhPK*, p. 668; *PC*, Act 2, p. 40; *SDK*, p. 4).
+</details>
+<details><summary>टिप्पनी</summary>
+
+*SVR*, p. 1109 (cf. *UBhPK*, p. 668; *PC*, Act 2, p. 40; *SDK*, p. 4).
+</details>
+<details><summary>En</summary>
+
+IV.1 There is no means of knowledge for determining (the existence of) the other-world.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 IV.2. *परलोकिनोऽभावात् परलोकाभावः* (Ś 17, N A11)
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 633; *TUS*, p. 45 (Franco, p. 228); + *ĀD*, Act 3, p. 65; + *YTC*, p. 269; *TBV*, pp. 71, 91, 739; *NKC*, pp. 343, 345; + *PKM*, p. 116; *SVR*, p. 1109.
+</details>
+<details><summary>En</summary>
+
+IV.2 There is no other-world because of the absence of any other-worldly being (i.e., the transmigrating self).
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + IV.3. *परलोकिचैतन्यं निरवयवत्वात्*
-  *SVR*, p. 1109.
+</details>
+<details><summary>टिप्पनी</summary>
+
+*SVR*, p. 1109.
+</details>
+<details><summary>En</summary>
+
+IV.3 Due to the insubstantiality of consciousness (residing) in the other-world. [[P17]]
+</details>
+
+<br>
 
 **V. वेदप्रामाण्यनिषेधवाद**
+
+<details open><summary>मूलम्</summary>
+
 + V.1. *धर्मो न कार्यः*
-  *NM*, Ch. 4, Part 1, p. 388 (cf. *KS*, 1.2.25: Ś 9, N A16).
+</details>
+<details><summary>टिप्पनी</summary>
+
+*NM*, Ch. 4, Part 1, p. 388 (cf. *KS*, 1.2.25: Ś 9, N A16).
+</details>
+<details><summary>En</summary>
+
+V.1 Religious act is not to be performed.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + V.2. *तद् उपदेशेषु न प्रत्येतव्यम्*
-  *NM*, Ch. 4, Part 1, p. 388.
+</details>
+<details><summary>टिप्पनी</summary>
 
+*NM*, Ch. 4, Part 1, p. 388.
+</details>
+<details><summary>En</summary>
+
+V.2 Its (religion’s) instructions are not to be relied upon.
+</details>
+
+<br>
 
 ### B. Extracts from commentaries
 
+<details open><summary>मूलम्</summary>
+
 + Bhā.1. *एवमादिस् तत्त्वटीकायाम् उदाहरणप्रपञ्चो द्रष्टव्यः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 521 (on *TS*, Ch. 18, v. 1458).
+</details>
+<details><summary>En</summary>
+
+Comm.1. See a number of such examples in *Tattvaṭīkā* [the commentary on the *Cārvākasūtra* by Aviddhakarṇa].
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.2. *अविद्धकर्णस् तत्त्वटीकायामाह – “ननु वा प्रमाणेन किं इति परः प्रतिपद्यते, उभयसिद्धं हि प्रतिपादकं भवतीति? तद् एतद् अयुक्तम्; यस्माद् वचनात्मकं अनुमानम्, न च वक्तुः प्रमाणम्, अथ च वक्ता तेन परं प्रतिपादयति, परप्रतिपादनार्थत्वात् प्रयासस्य, नावश्यम् उभयसिद्धेन प्रयोजनम्” इति.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 529 (on *TS*, Ch. 18, v. 1484). [[P10]]
+</details>
+<details><summary>En</summary>
+
+Comm.2. Aviddhakarṇa had said in *Tattvaṭīkā*: “By this means of knowledge (*sc.* Inference) what is conveyed to the other? What is conveyed has to be admitted by both (the speaker and the addressee). That is not right. As inference is in the form of a verbal statement, not a means of knowledge for the speaker, so he conveys (what he has to say) to the other. His effort is to convey, hence admitting (inference) by both is not necessary”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.3. *तेन यद् उच्यते ऽविद्धकर्णेन – “सत्यम् अनुमानम् इष्यत एवास्माभिः प्रमाणम् लोकप्रतीतत्वात् केवलं लिंगलक्षणमयुक्तं”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PVSVT*, p. 19.
+</details>
+<details><summary>En</summary>
+
+Comm.3. Therefore, as has been said by Aviddhakarṇa: “It is true that inference is admitted by us as a source of knowledge, because it is found to be so in general practice; (what we only point out is that) the definition of an inferential mark is illogical”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.4. *तेन यद् उच्यते ऽविद्धकर्णेन – “अनधिगतार्थपरिच्छित्तिः प्रमाणम् अतो नानुमानं प्रमाणम् अर्थपरिच्छेदकत्वभावाद्” इति.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PVSVT*, p. 25.
+</details>
+<details><summary>En</summary>
+
+Comm.4. Therefore, as has been said by Aviddhakarṇa: “A source of knowledge means (an instrument) which produces an awareness of an object not (already) cognized and therefore, inference is not a source of knowledge, because it is not an instrument for producing a definite awareness of an object”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.5. *इतरस्य अचेतनस्य वा भूम्यादेः मूर्तस्य. अनेन अविद्धकर्णस्य समयो दर्शितः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVT*, p. 306.
+</details>
+<details><summary>En</summary>
+
+Comm.5. *Of something else*, i.e., of the unconscious elements such as earth, etc. which have corporeal forms. By this is shown the conclusion of Aviddhakarṇa.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.6. *कश्चन चार्वाकविशेषो ऽविद्धकर्णः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NVV*, Part 2, p. 101.
+</details>
+<details><summary>En</summary>
+
+Comm.6. Thus (said) a certain Cārvāka (called) Aviddhakarṇa.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.7. *सुशिक्षितचार्वाकाः उद्भटादयः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *GrBh*, p. 52.26 (on *NM*, Ch. 1, Part 1, p. 52.18–19). See also Bhā.29.
+</details>
+<details><summary>En</summary>
+
+Comm.7. The well learned ones are Udbhaṭa and others.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.8. *चार्वाकधूर्तस्त्विति. उद्भटः. स हि लोकायतसूत्रेषु विवृतिं कुर्वन् “अथातस्तत्त्वं व्याख्यास्यामः” “पृथिव्यापस्तेजोवायुर इति” सूत्रद्वयं यथाश्रुतार्थत्यागेनान्यथा वर्णयामास. प्रथमसूत्रे तत्त्वपदेन प्रमाणप्रमेयसङ्ख्यालक्षणनियमाशक्यकरणीयताम् आह, द्वितीयसूत्रम् अपि प्रमेयनियमप्रतिपादकं तेन व्याख्यातम्. तत्र हि “पृथिव्यापस्तेजोवायुर इति” य “इति” शब्दः स एवं प्रायप्रमेयान्तरोपलक्षणत्वेन तस्याभिमतः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *GrBh*, p. 100.19–24 (on *NM*, Ch. 1, Part 1, p. 100), Shah, p. 43.
+</details>
+<details><summary>En</summary>
+
+Comm.8. The cunning Cārvāka [is] Udbhaṭa. While explicating the two aphorisms in the *Lokāyatasūtra*-s, “We shall now explain the principles” and “earth, water, fire and air (are the principles)” [*see, aphorisms I.1 and 2*], he described it in another way, forsaking the conventional interpretation. In the first aphorism, the term, *tattva*, tells the impossibility of laying down any fixed number and essential characteristics of the sources of knowledge and objects of knowledge. The second aphorism, too, is explained by him as referring to the objects of knowledge. The word, *iti* in the (aphorism), “the earth, water, fire and air *iti*” indicates also the possibility of similar objects of knowledge other than the earth, etc. Such is his view. [[P18]]
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.9. *चिरन्तनचार्वाकैर् हि भाविविक्त-प्रभृतिभिः “भूतेभ्यश्चैतन्यम्” इति सूत्रं भूतेभ्य इति पञ्चम्यन्तपदयोजनया व्याख्यातं, भूतेभ्य उत्पद्यते चैतन्यम् इति. उद्भटेन तु “भूतेभ्यः” इति पदं चतुर्थ्यन्ततया व्याख्यातं, भूतेभ्यश्चैतन्यं भूतार्थं चैतन्यं स्वतन्त्रम् एव शरीरारम्भकभूतोपकारकम् इत्यर्थः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *GrBh*, p. 257.24–26–258.21 (on *NM*, Ch. 7, Part 2, p. 257); Shah, p. 197.
+</details>
+<details><summary>En</summary>
+
+Comm.9. The ancient Cārvāka-s like Bhāvivikta and others explained (the aphorism) “Consciousness (is produced) from the elements”, as in the word, *bhūtevyaḥ*, the fifth declension (in the ablative case) has been employed. But Udbhaṭa explains the word, *bhūtevyaḥ* as having the fourth declension, meaning “consciousness is for (the sake of) the elements; consciousness is independent and aids the physical elements which constitute the body”. Such is the meaning.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.10. *यथा उद्भटेन उक्तम् – “शरीरारम्भककारणानाम् एव भूतानाम् स कश्चित् तादृशो विचित्रसुखदुःखोपभोगदो धर्मः स्वभावविशेष इत्यर्थः”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *GrBh*, p. 262.25–27 (on *NM*, Ch. 7, Part 2, p. 262); Shah, p. 198.
+</details>
+<details><summary>En</summary>
+
+Comm.10. As has been said by Udbhaṭa, “It means that there is an unseen property of the elements, the particular nature of the elements that constitute the body, which brings about the experience of diverse pleasures and miseries”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.11. *तत्त्ववृत्तावुद्भटेन – “लक्षणकारिणा लाघ्विकत्वेनैव शब्दविरचनव्यवस्था, न चैतावताऽनुमानस्य गौणता, यदि च साध्यिकदेशधर्मिधर्मत्वं हेतो रुपं ब्रूयुस्ते, तदा* [[P11]] *ना काचिल्लक्षणेऽपि गौणीवृत्तिः”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 265.16–19.
+</details>
+<details><summary>En</summary>
+
+Comm.11. Udbhaṭa has said in *Tattvavṛtti*: “The one who framed the definition aimed at brevity of expression, but not only because of this does inference become secondary. And if they were to define the characteristics of probans as attributes of the thing which is a part of the probandum, there would be no secondary significance even in the definition”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.12. *“हेतोः स्वसाध्यअनियमग्रहणे प्रकारत्रयमिष्टं दर्शनाभ्याम् अविशिष्टाभ्यां दर्शनेन विशिष्टानुपलब्धिसहितेन भूयोदर्शनप्रवृत्त्या च लोकव्यवहारपतितया, तत्राद्येन ग्रहणोपायेन ये हेतोर् गमकत्वम् इच्छन्ति तान् प्रतीदम् सूत्रम्. लोकप्रसिद्धेष्वपि हेतुषु व्यभिचारदर्शनम् अस्ति तन्त्रसिद्धेष्वपि तेन व्यभिचारदर्शनलक्षणगुणसाधर्म्यतः तन्त्रसिद्धहेतूनां तथाभावो व्यवस्थाप्यत इति गौणत्वम् अनुमानस्य. अव्यभिचारावगमो हि लौकिकहेतूनाम् अनुमेयावगमे निमित्तं स नास्ति तन्त्रसिद्धेष्विति न तेभ्यः परोक्षार्थावगमो न्याय्योत इदम् उक्तम् अनुमानाद् अर्थनिश्चयो दुर्लभ इति”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 265, 23–24, p. 266, 1–8.
+</details>
+<details><summary>En</summary>
+
+Comm.12. In the grasping of the invariable relation of the probans with the probandum, three modes are recognized: [*1*] by two unqualified perceptions. [*2*] by perception along with a qualified non-perception, and [*3*] by the process of repeated perception as found in worldly behaviour. This aphorism is aimed at those who recognize the probans as *gamaka* (capable of yielding knowledge) according to the first mode of grasping. Failure of concomitance is not seen even in the case of probanses well-established in the world; so also it is not noticed in the case of the probanses established in the scriptures; so, on the basis of the quality characterized by “non-perception of failure of concomitance” being common to them, the probanses established in the scriptures are admitted as being *gamaka*. It is because of this that inference is secondary. Now the knowledge of non-failure of concomitance in respect of worldly probanses is instrumental in bringing about the knowledge of the probandum. But that is not there in the concept of probanses established by the scriptures. So it is not proper that non-perceptible things should be known with the help of these. Hence it is said that the ascertainment of things is difficult to attain by dint of inference.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.13. *उक्तं च तन्त्रवृत्तौ भट्टोद्भटेन – “सर्वश्च दूषणोपनिपातोऽप्रयोजकहेतुम् आक्रमतीत्यप्रयोजकविषया विरुद्धानुमानविरोधविरुद्धाव्यभिचारिणः”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 270, 3–5.
 *Tantravṛtti* may be misprint for *Tattvavṛtti* (as noted by Solomon, p. 990 n14).
+</details>
+<details><summary>En</summary>
+
+Comm.13. Udbhaṭa, too, has said in *Tantravṛtti* [*sic*]: All the objections (viz, *Viruddha*, *Virodha-viruddha-vyabhicārin*, etc.) you raise against inference apply to the incapable reasons (*hetu*-s), they do not affect capable reasons. [[P19]]
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.14. *यत्र तु भट्टोद्भटः प्राचीकटत् – “नह्यत्र कारणम् एव कार्यात्मतामुपैति यत एकस्याकारणात्मन एककार्यरूपतोपगमे तदन्यरूपाभावात् तदन्यकार्यात्मनोपगतिर् न स्यात्. किं त्वपूर्वमेव कस्यचिद्भावे प्रागविद्यमानं भवत् तत् कार्यम्. तत्र विषयेन्द्रियमनस्काराणाम् इतरेतरोपादानहितरूपभेदानां सन्निधौ विशिष्टस्वेतरक्षणाभावे प्रत्येकं तद्भावाभावानुविधानाद् अनेकक्रियोपयोगो न विरुध्यते. यत एकक्रियायाम् अपि तस्य तद्भावाभाविताइव निबन्धनं सा चानेकक्रियायाम् अपि समाना” इति.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 764. 6–13.
+</details>
+<details><summary>En</summary>
+
+Comm.14. [*Literal translation of this passage is beyond my power, I give below only a summary of what Bhaṭṭa Udbhaṭa is alleged to have said*]:
+It cannot be said that the cause attains the nature of the effect, but the effect is something new which appears in the presence of the cause.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.15. *तत्रायं जरद्द्विजन्मा महानुभावोऽभिनवम् एतम् उत्तरमार्गं अस्मान् प्रति प्रकाशयति.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 764, 24–25.
+</details>
+<details><summary>En</summary>
+
+Comm.15. This respectable veteran twice-born is revealing to us a novel way of answering criticism.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.16. *यदाचष्ट भट्टोद्भटः – “इतिशब्दः प्रदर्शनपरो न पुनः समाप्तिवचनश् चैतन्यशब्दसुखदुःखेच्छाद्वेषप्रयत्नसंस्काराणां तत्त्वान्तरत्वात् पृथिव्यादिप्राक्प्रद्भवंसापेक्षान्योन्याभावानां चात्यन्तप्रकटत्वाद् उक्तत्वविलक्षणत्वाच्चेति”.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVR*, p. 1087, 1–4. [[P12]]
+</details>
+<details><summary>En</summary>
+
+Comm.16. As said Bhaṭṭa Udbhaṭa, “The word, *iti* does not denote the end, (but) it is illustrative. There are other principles such as consciousness, sound, pleasure, pain, desire, aversion, effort, impression and others. There are also prior non-existence of the earth, etc., posterior non-existence, the mutual difference which are quite apparent and distinct (from the principles, viz., earth, etc.)”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.17. *कम्बलाश्वत्रोदितम्*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TS*, Ch. 22, v. 1863, p. 635; *TSP* on *TS* (as above).
 See also “Aphorisms and Pseudo-aphorisms”, I.7
+</details>
+<details><summary>En</summary>
+
+Comm.17. (As) said by Kambalāśvatara.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Bhā.18. *पुरन्दरस् त्वाह – “लोकप्रसिद्धम् अनुमानं चार्वाकैर् अपीष्यत एव, यत्तु कैश्चिल् लौकिकं मार्गम् अतिक्रम्यानुमानम् उच्यते तन्निषिध्यते”* (Ś 35, N D2).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 528 (on *TS*, Ch. 18, v. 1481).
+</details>
+<details><summary>En</summary>
+
+Comm.18. But Purandara said: “The Cārvākas, too, admit of such an inference as is well-known in the world, but that which is called inference [*by some*], transgressing the worldly way, is prohibited [*by them*]”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.19. *एमेय करिवि अप्पणिय उत्ति /*
-*किं जंपसि पौरँदरिय वित्ति //*
+  *किं जंपसि पौरँदरिय वित्ति //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *MahāP*, 20.18.9, p. 328.
+</details>
+<details><summary>En</summary>
+
+Comm.19. “Arranging your arguments in this way, why do you blurt out the commentary of Purandara”?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.20. *[चैतन्यस्य] मूर्तस्य पृथिव्यादि-चतुष्टयस्य ज्ञानम् अनेन पौरम् [पौरन्दरम्] मतम् दर्शितम्.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SVT*, p. 306.
 Mahendrakumāra Nyāyācārya offers an emendation of the first word: *चैतन्यविशिष्टस्य* (p. 306 n16).
+</details>
+<details><summary>En</summary>
+
+Comm.20. *Cognition* belongs to the group of the four elements, such as the earth, etc. *which have assumed a corporeal form* – by this is shown the conclusion of Pauram [*Paurandaram*].
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.21. *... न केवलम् पुरन्दरादेः ...*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NVV*, Part 2, p. 101.
+</details>
+<details><summary>En</summary>
+
+Comm.21. Not only of Purandara and others.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.22. *[पुरन्दर] चार्वाकमते ग्रन्थकर्ता*
+</details>
+<details><summary>टिप्पनी</summary>
+
 A marginal note on a passage found in a MS of Puṣpadanta’s *Mahāpurāṇa* (most probably the passage cited above as Bhā.19), quoted in P.D. Gune’s introduction to the edition of Dhanapāla’s *Bhavisayatthakahā*, p. 42.
+</details>
+<details><summary>En</summary>
+
+Comm.22. [*Purandara*] author of a work on the Cārvāka doctrine.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.23. *भाविविक्त*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *GrBh*, p. 257.24 (on *NM*, Ch. 7 Part 2, p. 257); Shah, p. 197. See, Bhā.14 above.
+</details>
+<details><summary>En</summary>
+
+Comm.23. Bhāvivikta [*The name of an ancient Cārvāka philosopher*].
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Bhā.24. *या गर्भस्थातीतलोकोऽस्तीति तदर्थसिद्ध्यर्थम् गर्भस्थातीतबुद्धिः समनन्तरनिरुद्धबुद्धिपूर्विका, बुद्धित्वात्, तदनन्तरबुद्धिवद् इति साधनं वदन्ति, तेषाम् दृष्टान्तो नास्ति. एवं मरणम् यावत् स्थितानां मनुष्याणां बुद्ध्येकमात्रत्वनिष्पन्नत्वात्, ततस्तावन् न पूर्वलोक इति* (N F2).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PrPr*, 204, a, 2–4 (on *MS* 16.1) (For another restoration, see, Pandeya, Part 2, p. 3). Cf. *TUS*, p. 57.
+</details>
+<details><summary>En</summary>
+
+Comm.24. Those who want to prove that there is a previous world of the embryonic state with the help of the argument that “the previous intelligence in the embryonic stage is always preceded by the cessation of an immediately preceding intelligence”, since it is intelligence, like the intelligence coming after the embryonic state cannot stand, as because the instance given by them is not proper. Man, till he is dead, has only one stream of intelligence, therefore there is no previous world.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Bhā.25. *न हि देवदत्तस्य मरणचित्तम् चित्तान्तरेण प्रतिसन्धीयते, मरणचित्तत्वात्, अर्हतो मरणचित्तवत्* (N F3).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PrPr*, 204, a, 4–5 (on *MS* 16.1) (For two other restorations see, Pandeya, Part 2, p. 3 and Franco, 1997, p. 116). Cf. *TSP*, p. 635 (on *TS*, vv. 1862–1863).
+</details>
+<details><summary>En</summary>
+
+Comm.25. The dying consciousness of Devadatta is not recognized by another consciousness because the consciousness is about to die, as the dying consciousness of the *arhat*.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.26. *देशान्तरम् कालान्तरमवस्थान्तरं वा परलोकः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 637 (on *TS*, Ch. 22, vv. 1871–1876). [[P13]]
+</details>
+<details><summary>En</summary>
+
+Comm.26. The other-world consists in another place, another time, or another state. [[P20]]
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Bhā.27. *इहलोकपरलोकशरीरयोर् भिन्नत्वात् तद्गतयोरपि चित्तयोर्नैकः सन्तानः* (Ś 18, N F4).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 663 (on *TS*, vv. 1938–1940). Cf. *PVA*, p. 105. 21.
+</details>
+<details><summary>En</summary>
+
+Comm.27. The body in this world and the body in the “other world” being entirely different, the chain of cognitions in those two bodies cannot be one and the same.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.28. *जातिस्मरणामासिद्धमेकग्ग्रामागतानां सर्वेषां स्मरणात्.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TSP*, p. 665 (on *TS*, Ch. 22, v. 1945).
+</details>
+<details><summary>En</summary>
+
+Comm.28. Remembrance of previous birth cannot be admitted, because there is remembrance of all men coming from the same village.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.29. *अशक्य एव प्रमाणसङ्ख्यानियम इति सुशिक्षितचार्वाकाः.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 1, Part 1, p. 52. 18–19 (see, Bhās. 8 and 16).
+</details>
+<details><summary>En</summary>
+
+Comm.29. The Cārvāka-s, the well-versed ones, say that it is really impossible to specifically state the number of the sources of cognition.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Bhā.30. *सुशिक्षिततराः प्राहुः – द्विविधम् अनुमानम्, किञ्चिद् उत्पन्नप्रतीति, किञ्चिद् उत्पाद्यप्रतीति, ईश्वराद्यानुमानन्तु उत्पाद्यप्रतीति.*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 184.6–7. See also Śls. 18–20 below.
+</details>
+<details><summary>En</summary>
+
+Comm.30. Now those who (think themselves to be) more well-versed, say that (in fact) there are two kinds of inference, “some in case of which the inferential cognition can be acquired by oneself” (*utpanna-pratīti*), and “some in case of which the inferential cognition is to be acquired (on somebody else’s advice)” (*utpādya-pratīti*) [*The former kind is valid, but the latter kind is not*].
+</details>
+
+<br>
 
 ### C. Verses attributed to the Cārvākas
+
+<details open><summary>मूलम्</summary>
 
 Śl.1. *न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः /*
 *नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः //*
 (Ś 39, N B4).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PPu*, Sṛṣṭikhaṇḍa 13.323; *SDS*, p. 13, v. 1, lines 110–111; *VMT*, 3.2.
+</details>
+<details><summary>En</summary>
+
+1. There is no heaven, no final liberation, nor any soul in another world.
+   Nor do the actions of the four castes, orders, etc., produce any real effect.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.2. *अग्निहोत्रं त्रयो वेदास् त्रिदण्डं भस्मगुण्ठनम् /*
 *बुद्धिपौरुषहीनानां जीविकेति बृहस्पतिः //*
 (Ś 40, N B7).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *RVP*, p. 285; *PC*, 2.26, p. 44; *GrBh*, Part 2, p. 228 (on *NM*, Ch. 7); *NC*, 17.39; *NP*, p. 365 (on *NC*, 17.39); *SDS*, pp. 5.50–51, 13.112–113; *BhD* on the *Mbh.*, Śāntiparvan, 218.25 (Vulgate ed.), 211.24 (Critical ed.); *ABS*, Ch. 2, p. 100; *SMS*, p. 15; *SSS*, p. 6.
+</details>
+<details><summary>En</summary>
+
+2. Bṛhaspati says – The Agnihotra, the three Vedas, the ascetic’s three staves, and smearing one’s self with ashes, – (all these) are the livelihood of those destitute of knowledge and manliness.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.3. *पशुश्चेन् निहतः स्वर्गं ज्योतिष्टोमे गमिष्यति /*
 *स्वपिता यजमानेन तत्र कस्मान् न हिंस्यते //*
 (Ś 41, N B8).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *VPu*. 3.18.26; *PC*, 2.20, p. 40; *SDS*, p. 13.14–15; *ABS*, p. 101 (quoting from *VP*).
 Cf. *ŚKA*, p. 19 (*DA*, p. 321, vv. 23–24).
+</details>
+<details><summary>En</summary>
+
+3. If a beast slain in the Jyotiṣṭoma rite will itself go to heaven.
+   Why then does not the sacrificer forthwith offer his own father?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.4. *मृतानाम् अपि जन्तूनां श्राद्धं चेत् तृप्तिकारणम् /*
 *निर्वाणस्य प्रदीपस्य स्नेहः संवर्धयेच् छिखाम् //*
 (Ś 42, N B9).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PC*, 2.21, p. 40; *SDS*, p. 13. 116–117.
+</details>
+<details><summary>En</summary>
+
+4. If Śrāddha (*offering of rice balls to a dead person*) produces gratification to beings who are dead, then oil may rear the flame of an extinguished light.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.5. *गच्छताम् इह जन्तूनां व्यर्थं पाथेयकल्पनम् /*
 *गेहस्थकृतश्राद्धेन पथि तृप्तिर् अवारिता //*
 (Ś 43, N B10).
-*SDS*, p. 14. 118–119. [[P14]]
+</details>
+<details><summary>टिप्पनी</summary>
 
+*SDS*, p. 14. 118–119. [[P14]]
 Cf. *VPu*. 3.18.29, also quoted in *ABS*, Ch. 2, p. 101; *Rām.*, Ayodhyā. 109.15 (Vulgate).
+</details>
+<details><summary>En</summary>
+
+5. (If the Śrāddha produces gratification to beings who are dead), then here, too, in the case of the travellers when they start, it is needless to give provisions for the journey.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.6. *स्वर्गस्थिता यदा तृप्तिं गच्छेयुस् तत्र दानतः /*
 *प्रासादस्योपरिस्थानाम् अत्र कस्मान् न दीयते //*
 (Ś 44, N B11).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SDS*, p. 14. 120–121.
+</details>
+<details><summary>En</summary>
+
+6. If beings in heaven are gratified by our offering (the Śrāddha) here, then why not give the food down below to those who are standing on the housetop?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.7. *यावज् जीवं सुखं जीवेन् नास्ति मृत्योर् अगोचरः /*
 *भस्मीभूतस्य शान्तस्य पुनरागमनं कुतः //*
 (Ś 45, N B3).
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *VDMP*, 108. 18–19; + *TSP*, p. 17; + *NM*, Ch. 4, Part 1, p. 388; Ch. 7, Part 2, p. 257; + *TBV*, p. 505 n6; + *YTC*, Part 2, p. 253; *MB*, p. 14; + *Pari.*, p. 113 (on *NS*, 1.1.2); *TSPC*, 1.345, p. 12; *Dohā.*, p. 86; *NC*, 17.69; *SDS*, p. 2. 17–18; p. 14. 125–126; *TRD*, p. 202; *SDK*, 108.
+</details>
+<details><summary>En</summary>
+
+7. While life remains let a man live happily; nothing is beyond death.
+   When once the body becomes ashes, how can it even return again?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.8. *यदि गच्छेत् परं लोकं देहाद् एष विनिर्गतः /*
 *कस्माद् भूयो न चायाति बन्धुस्नेहसमाकुलः //*
 (Ś 46, N B12).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SDS*, p. 14. 124–125.
+</details>
+<details><summary>En</summary>
+
+8. If he who departs from the body goes to another world, how is it that he comes not back again, restless for love of his kindred?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.9. *ततश् च जीवनोपायो ब्राह्मणैर् विहितस् त्विह /*
 *मृतानां प्रेतकार्याणि न त्वन्यद् विद्यते क्वचित् //*
 (Ś 47, N B13).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SDS*, p. 14. 126–127.
+</details>
+<details><summary>En</summary>
+
+9. Hence it is only as a means of livelihood that Brahmans have established here.
+   All these ceremonies for the dead, – there is no other fruit anywhere. [[P21]]
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.10. *त्रयो वेदस्य कर्तारो भण्डधूर्तनिशाचराः /*
 *जर्भरीतुर्फरीत्यादि पण्डितानां वचः स्मृतम् //*
 (Ś 48, N B14).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SDS*, p. 14. 128–129; + *GBhŚr* (on *Gītā*, 16.8); *GBhVi* (on *Gītā*, 16.8); *SMS*, p. 15 (first line only – with variants).
+</details>
+<details><summary>En</summary>
+
+10. The three authors of the Vedas were buffoons, knaves, and demons.
+    All the well-known formulae of the pandits, *jarpharī turpharī* &c.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.11. *अश्वस्यात्र हि शिश्नं तु पत्नीग्राह्यं प्रकीर्तितम् /*
 *भण्डैस् तद्वत् परं चैव ग्राह्यजातं प्रकीर्तितम् //*
 *मांसानां खादनम् तद्वन् निशाचरसमीरितम् //*
 (Ś 49, N B15–16).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *SDS*, p. 15. 130–132.
+</details>
+<details><summary>En</summary>
+
+11. And all the rites for the queen (e.g., holding the penis of the horse) commanded in the Aśvamedha (the Horse sacrifice).
+    These were invented by buffoons, and so all the various kinds of presents to the priests.
+    While the eating of flesh was similarly commanded by nigh-prowling demons.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.12. *नग्न श्रमणक दुर्बुद्धे कायक्लेशपरायण /*
 *जीविकार्थे ऽपि चारम्भे केन त्वम् असि शिक्षितः //*
 (Ś 51, N B6).
+</details>
+<details><summary>टिप्पनी</summary>
+
 *TUS*, p. 79. 17–18.
+</details>
+<details><summary>En</summary>
+
+12. O, the naked one (Jain), ascetic (Buddhist), dimwit, given to practising physical hardship! Who has taught you this way to leading life?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.13. *एतावान् एव पुरुषो यावान् इन्द्रियगोचरः /*
 *भद्रे वृकपदं ह्य् एतद् यद् वदन्ति बहुश्रुताः //*
 (Ś 19, N B2).
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *PrPa*, Vol. 2, p. 65 (on *MS*, 18.6); *MĀV*, p. 209; *PrPr*, Vol. 2, p. 3 (on *MS*, 16.1), 64 (on *MS*, 18.6); *VBhSVṛ*, Part 1, p. 186; [[P15]] Part 2, pp. 344, 439; *TSP*, p. 637. 19–20; *ṢDSam.*, p. 301. 14–15; v.81; *LTN*, v.33, f. 24b; *MVṛ*, p. 129 (on *SK*, 17); *SKSVṛ*, p. 10 (on *SKS*, 1.1.6); *Ṣaḍ – DS*, p. 81, v.160; Hemachandra Sūri on *GV*, 1.5(1553), p. 10; *LṢDSam.*, p. 256.
-Cf. *Mbh.*, Śānti, Vulgate, 134.2; Crit. ed. 132.1ef–2ab.
+  Cf. *Mbh.*, Śānti, Vulgate, 134.2; Crit. ed. 132.1ef–2ab.
+</details>
+<details><summary>En</summary>
+
+13. Man consists of only as much as is within the scope of the senses.
+    What the vastly learned ones speak of (as true) is but similar to (the statement) “Oh! Dear! Look at the footprint of the wolf”!
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.14. + *पिब खाद च चारुलोचने यदातीतं वरगात्रि तन्न ते /*
-*न हि भीरु गतं निवर्तते समुदयमात्रम् इदं कलेवरम् //*
+  *न हि भीरु गतं निवर्तते समुदयमात्रम् इदं कलेवरम् //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *PrPr*, Vol. 2, p. 3 (on *MS*, 16.1), 64 (on *MS*, 18.6); *ṢDSam*, p. 304. 14–17, v.82; *SKSVṛ*, p. 10 (on *SKS*, 1.1.6), 49 (on *SKS*, 2.3.11); *ĀSVṛ*, p. 123 (on *ĀS*, 1.4.2); *Ṣaḍ-DS*, p. 81, v.161 (verbatim reproduction of *ṢDSam.*, v.82).
+</details>
+<details><summary>En</summary>
+
+14. Oh! The one with beautiful eyes! Drink and eat (as you like). Oh! The one with a charming body! That which is past does not belong to you. Oh! The timid one! The past never comes back. This body is nothing but a collectivity.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 Śl.15. *तपांसि यातनाश् चित्राः संयमो भ्योगवञ्चना /*
 *अग्निहोत्रादिकं कर्म बालक्रीडेव लक्ष्यते //*
 (N B5)
+</details>
+<details><summary>टिप्पनी</summary>
+
 + *VDMP*, 1.108.14cd–15ab; + *LTN*, v.34, f. 25a; *TRD*, p. 302. 18–19.
+</details>
+<details><summary>En</summary>
+
+15. Penances are only various forms of torments, and abstinence is only depriving oneself of consuming (the pleasures of life). The rituals of Agnihotra, etc., appear only to be child’s play.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.16. + *विशेषे ऽनुगमाभावात् सामान्ये सिद्धसाधनात् /*
-*तद्वतोऽनुप्पन्नत्वाद् अनुमानकथा कुतः //*
+  *तद्वतोऽनुप्पन्नत्वाद् अनुमानकथा कुतः //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 177. 12–13; *PrPañ*, p. 206 (first line only: *विशेषे ऽनुगमाभावः सामान्य सिद्धसाध्यता*); *AS*, Ch. 1, p. 36 (first line only: *सामान्ये सिद्धसाधनाद् विशेषे ऽनुगमाभावात्*); *PVSVT*, p. 26 (first line only: *विशेषेनुगमाभावः सामान्ये सिद्धसाधनम्*); *Vyo.*, Part 2, p. 161 (first line only: *सामान्ये सिद्धसाधनम् विशेषे ऽनुगमाभावः*); *JñāNi*, No. 7, p. 268 (first line only, as in *PrPañ*); ibid., No. 7, p. 274 (first hemistich only, as in above); ibid., No. 11, p. 379 (first line only, as in above excepting *b*: *सिद्धसाधनम्*); *ŚD*, p. 63 (*ab* as in *PrPañ*, *cd*: *अनुमाभङ्गपङ्के ऽस्मिन् निमग्न वादिदन्तिनः*); ibid., p. 71 (first line only, as in *PrPañ*); *PKM*, p. 177.16 (first line only, as in *PVSVT*); *RNi*, No. 2, p. 54 (as in *ŚD* but line 1 becomes line 2 and line 2 = line 1 with variants in *2d*); *SVR*, p. 263. 12–13 (as in *NM*); *PaPañ*, p. 24 (the second line reads: *तद्वतोऽनुपपन्नत्वादि अनुमानकथा कुतः*).
+</details>
+<details><summary>En</summary>
+
+16. No concomitance being possible in the case of the particular and there being the charge of “proving the proved” in the case of the universal, the subject cannot be justified as a locus of the probandum. How can, therefore, one talk about inference (as a source of valid knowledge)?
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.17. + *अनुमानविरोधो वा यदि चेष्टविघातकृत् /*
-*विरुद्धव्यभिचारो वा सर्वत्र सुलभोदयः //*
+  *विरुद्धव्यभिचारो वा सर्वत्र सुलभोदयः //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 179. 1–2; *SVR*, p. 263.14–15 (v.2) (c. *विरुद्धाव्यभिचारस्तु*).
+</details>
+<details><summary>En</summary>
+
+17. It is easily possible to find, in all cases, that one’s inference is contradicted either by probans “which nullifies one’s own thesis”, or by a probans “which is an invariable opposite”.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.18. + *तत्र धूमानुमानादेः प्रामाण्यं केन नेष्यते /*
-*अतो हि साध्यं बुध्यन्ते तार्किकैरक्षता अपि //*
+  *अतो हि साध्यं बुध्यन्ते तार्किकैरक्षता अपि //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 184. 8–9. [[P16]]
+</details>
+<details><summary>En</summary>
+
+18. Indeed, who will deny the validity of inference when one infers fire from smoke, and so on; for even ordinary people ascertain the probandum by such inferences, though they may not be pestered by the logicians.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.19. + *यत्त्वात्मेश्वर – सर्वज्ञ – परलोकादिगोचरम् /*
-*अनुमानं न तस्येष्टं प्रामाण्यं तत्त्वदर्शिभिः //*
+  *अनुमानं न तस्येष्टं प्रामाण्यं तत्त्वदर्शिभिः //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 184. 10–11.
+</details>
+<details><summary>En</summary>
+
+19. However, inferences that seek to prove a self, God, an omniscient being, the other-world, and so on, are not considered valid by those who know the real nature of things.
+</details>
+
+<details open><summary>मूलम्</summary>
 
 + Śl.20. + *ऋजूनां जायते तस्मान्न तावद् अनुमेयधीः /*
-*यावत् कुटिलितं चेतो न तेषां विटतार्किकैः //*
+  *यावत् कुटिलितं चेतो न तेषां विटतार्किकैः //*
+</details>
+<details><summary>टिप्पनी</summary>
+
 *NM*, Ch. 2, Part 1, p. 184. 12–13.
+</details>
+<details><summary>En</summary>
 
-## TRANSLATION
-
-### A. Translation of the aphorisms and pseudo-aphorisms
-
-**I. Materialism**
-I.1 We shall now explain the principles.
-I.2 Earth, water, fire and air are the principles, nothing else.
-I.3 Their combination is called the “body”, “sense” and “object”.
-I.4 Consciousness (arises or is manifested) out of these.
-I.5 As the power of intoxication (arises or is manifested) from the constituent parts of the wine (such as flour, water and molasses).
-I.6 The self is (nothing but) the body endowed with consciousness.
-I.7 From the body itself.
-I.8 Because of the existence (of consciousness) where there is a body.
-I.9 Souls are like water bubbles.
-
-**II. The doctrine of inherent nature (lit. own being)**
-II.1 The world is varied due to the variation of origin.
-II.2 As the eye in the peacock’s tail.
-
-**III. The doctrine of the primacy of perception**
-III.1 Perception indeed is the (only) means of right knowledge.
-III.2 Since the means of right knowledge is to be non-secondary, it is difficult to ascertain an object by means of inference.
-
-**IV. The doctrine of the denial of rebirth and the other world**
-IV.1 There is no means of knowledge for determining (the existence of) the other-world.
-IV.2 There is no other-world because of the absence of any other-worldly being (i.e., the transmigrating self).
-IV.3 Due to the insubstantiality of consciousness (residing) in the other-world. [[P17]]
-
-**V. The doctrine of the uselessness of performing religious acts**
-V.1 Religious act is not to be performed.
-V.2 Its (religion’s) instructions are not to be relied upon.
-
-### B. Translation of the extracts from commentaries
-
-Comm.1. See a number of such examples in *Tattvaṭīkā* [the commentary on the *Cārvākasūtra* by Aviddhakarṇa].
-Comm.2. Aviddhakarṇa had said in *Tattvaṭīkā*: “By this means of knowledge (*sc.* Inference) what is conveyed to the other? What is conveyed has to be admitted by both (the speaker and the addressee). That is not right. As inference is in the form of a verbal statement, not a means of knowledge for the speaker, so he conveys (what he has to say) to the other. His effort is to convey, hence admitting (inference) by both is not necessary”.
-Comm.3. Therefore, as has been said by Aviddhakarṇa: “It is true that inference is admitted by us as a source of knowledge, because it is found to be so in general practice; (what we only point out is that) the definition of an inferential mark is illogical”.
-Comm.4. Therefore, as has been said by Aviddhakarṇa: “A source of knowledge means (an instrument) which produces an awareness of an object not (already) cognized and therefore, inference is not a source of knowledge, because it is not an instrument for producing a definite awareness of an object”.
-Comm.5. *Of something else*, i.e., of the unconscious elements such as earth, etc. which have corporeal forms. By this is shown the conclusion of Aviddhakarṇa.
-Comm.6. Thus (said) a certain Cārvāka (called) Aviddhakarṇa.
-Comm.7. The well learned ones are Udbhaṭa and others.
-Comm.8. The cunning Cārvāka [is] Udbhaṭa. While explicating the two aphorisms in the *Lokāyatasūtra*-s, “We shall now explain the principles” and “earth, water, fire and air (are the principles)” [*see, aphorisms I.1 and 2*], he described it in another way, forsaking the conventional interpretation. In the first aphorism, the term, *tattva*, tells the impossibility of laying down any fixed number and essential characteristics of the sources of knowledge and objects of knowledge. The second aphorism, too, is explained by him as referring to the objects of knowledge. The word, *iti* in the (aphorism), “the earth, water, fire and air *iti*” indicates also the possibility of similar objects of knowledge other than the earth, etc. Such is his view. [[P18]]
-
-Comm.9. The ancient Cārvāka-s like Bhāvivikta and others explained (the aphorism) “Consciousness (is produced) from the elements”, as in the word, *bhūtevyaḥ*, the fifth declension (in the ablative case) has been employed. But Udbhaṭa explains the word, *bhūtevyaḥ* as having the fourth declension, meaning “consciousness is for (the sake of) the elements; consciousness is independent and aids the physical elements which constitute the body”. Such is the meaning.
-Comm.10. As has been said by Udbhaṭa, “It means that there is an unseen property of the elements, the particular nature of the elements that constitute the body, which brings about the experience of diverse pleasures and miseries”.
-Comm.11. Udbhaṭa has said in *Tattvavṛtti*: “The one who framed the definition aimed at brevity of expression, but not only because of this does inference become secondary. And if they were to define the characteristics of probans as attributes of the thing which is a part of the probandum, there would be no secondary significance even in the definition”.
-Comm.12. In the grasping of the invariable relation of the probans with the probandum, three modes are recognized: [*1*] by two unqualified perceptions. [*2*] by perception along with a qualified non-perception, and [*3*] by the process of repeated perception as found in worldly behaviour. This aphorism is aimed at those who recognize the probans as *gamaka* (capable of yielding knowledge) according to the first mode of grasping. Failure of concomitance is not seen even in the case of probanses well-established in the world; so also it is not noticed in the case of the probanses established in the scriptures; so, on the basis of the quality characterized by “non-perception of failure of concomitance” being common to them, the probanses established in the scriptures are admitted as being *gamaka*. It is because of this that inference is secondary. Now the knowledge of non-failure of concomitance in respect of worldly probanses is instrumental in bringing about the knowledge of the probandum. But that is not there in the concept of probanses established by the scriptures. So it is not proper that non-perceptible things should be known with the help of these. Hence it is said that the ascertainment of things is difficult to attain by dint of inference.
-Comm.13. Udbhaṭa, too, has said in *Tantravṛtti* [*sic*]: All the objections (viz, *Viruddha*, *Virodha-viruddha-vyabhicārin*, etc.) you raise against inference apply to the incapable reasons (*hetu*-s), they do not affect capable reasons. [[P19]]
-
-Comm.14. [*Literal translation of this passage is beyond my power, I give below only a summary of what Bhaṭṭa Udbhaṭa is alleged to have said*]:
-It cannot be said that the cause attains the nature of the effect, but the effect is something new which appears in the presence of the cause.
-Comm.15. This respectable veteran twice-born is revealing to us a novel way of answering criticism.
-Comm.16. As said Bhaṭṭa Udbhaṭa, “The word, *iti* does not denote the end, (but) it is illustrative. There are other principles such as consciousness, sound, pleasure, pain, desire, aversion, effort, impression and others. There are also prior non-existence of the earth, etc., posterior non-existence, the mutual difference which are quite apparent and distinct (from the principles, viz., earth, etc.)”.
-Comm.17. (As) said by Kambalāśvatara.
-Comm.18. But Purandara said: “The Cārvākas, too, admit of such an inference as is well-known in the world, but that which is called inference [*by some*], transgressing the worldly way, is prohibited [*by them*]”.
-Comm.19. “Arranging your arguments in this way, why do you blurt out the commentary of Purandara”?
-Comm.20. *Cognition* belongs to the group of the four elements, such as the earth, etc. *which have assumed a corporeal form* – by this is shown the conclusion of Pauram [*Paurandaram*].
-Comm.21. Not only of Purandara and others.
-Comm.22. [*Purandara*] author of a work on the Cārvāka doctrine.
-Comm.23. Bhāvivikta [*The name of an ancient Cārvāka philosopher*].
-Comm.24. Those who want to prove that there is a previous world of the embryonic state with the help of the argument that “the previous intelligence in the embryonic stage is always preceded by the cessation of an immediately preceding intelligence”, since it is intelligence, like the intelligence coming after the embryonic state cannot stand, as because the instance given by them is not proper. Man, till he is dead, has only one stream of intelligence, therefore there is no previous world.
-Comm.25. The dying consciousness of Devadatta is not recognized by another consciousness because the consciousness is about to die, as the dying consciousness of the *arhat*.
-Comm.26. The other-world consists in another place, another time, or another state. [[P20]]
-
-Comm.27. The body in this world and the body in the “other world” being entirely different, the chain of cognitions in those two bodies cannot be one and the same.
-Comm.28. Remembrance of previous birth cannot be admitted, because there is remembrance of all men coming from the same village.
-Comm.29. The Cārvāka-s, the well-versed ones, say that it is really impossible to specifically state the number of the sources of cognition.
-Comm.30. Now those who (think themselves to be) more well-versed, say that (in fact) there are two kinds of inference, “some in case of which the inferential cognition can be acquired by oneself” (*utpanna-pratīti*), and “some in case of which the inferential cognition is to be acquired (on somebody else’s advice)” (*utpādya-pratīti*) [*The former kind is valid, but the latter kind is not*].
-
-### C. Translation of the verses attributed to the Cārvāka-s
-
-1. There is no heaven, no final liberation, nor any soul in another world.
-Nor do the actions of the four castes, orders, etc., produce any real effect.
-2. Bṛhaspati says – The Agnihotra, the three Vedas, the ascetic’s three staves, and smearing one’s self with ashes, – (all these) are the livelihood of those destitute of knowledge and manliness.
-3. If a beast slain in the Jyotiṣṭoma rite will itself go to heaven.
-Why then does not the sacrificer forthwith offer his own father?
-4. If Śrāddha (*offering of rice balls to a dead person*) produces gratification to beings who are dead, then oil may rear the flame of an extinguished light.
-5. (If the Śrāddha produces gratification to beings who are dead), then here, too, in the case of the travellers when they start, it is needless to give provisions for the journey.
-6. If beings in heaven are gratified by our offering (the Śrāddha) here, then why not give the food down below to those who are standing on the housetop?
-7. While life remains let a man live happily; nothing is beyond death.
-When once the body becomes ashes, how can it even return again?
-8. If he who departs from the body goes to another world, how is it that he comes not back again, restless for love of his kindred?
-9. Hence it is only as a means of livelihood that Brahmans have established here.
-All these ceremonies for the dead, – there is no other fruit anywhere. [[P21]]
-
-10. The three authors of the Vedas were buffoons, knaves, and demons.
-All the well-known formulae of the pandits, *jarpharī turpharī* &c.
-11. And all the rites for the queen (e.g., holding the penis of the horse) commanded in the Aśvamedha (the Horse sacrifice).
-These were invented by buffoons, and so all the various kinds of presents to the priests.
-While the eating of flesh was similarly commanded by nigh-prowling demons.
-12. O, the naked one (Jain), ascetic (Buddhist), dimwit, given to practising physical hardship! Who has taught you this way to leading life?
-13. Man consists of only as much as is within the scope of the senses.
-What the vastly learned ones speak of (as true) is but similar to (the statement) “Oh! Dear! Look at the footprint of the wolf”!
-14. Oh! The one with beautiful eyes! Drink and eat (as you like). Oh! The one with a charming body! That which is past does not belong to you. Oh! The timid one! The past never comes back. This body is nothing but a collectivity.
-15. Penances are only various forms of torments, and abstinence is only depriving oneself of consuming (the pleasures of life). The rituals of Agnihotra, etc., appear only to be child’s play.
-16. No concomitance being possible in the case of the particular and there being the charge of “proving the proved” in the case of the universal, the subject cannot be justified as a locus of the probandum. How can, therefore, one talk about inference (as a source of valid knowledge)?
-17. It is easily possible to find, in all cases, that one’s inference is contradicted either by probans “which nullifies one’s own thesis”, or by a probans “which is an invariable opposite”.
-18. Indeed, who will deny the validity of inference when one infers fire from smoke, and so on; for even ordinary people ascertain the probandum by such inferences, though they may not be pestered by the logicians.
-19. However, inferences that seek to prove a self, God, an omniscient being, the other-world, and so on, are not considered valid by those who know the real nature of things.
 20. Simple-minded people cannot derive the knowledge of probandum by such inferences, so long as their mind is not vitiated by cunning logicians.
+</details>
+
+<br>
 
 The translations of Śls, 1–11 are taken from Cowell’s trans. of *SDS* (with some modification, particularly in the case of Śls. 2 and 7); that [[P22]] cf Śls. 13–20 from Mrinal Kanti Gangopadhyaya’s trans. in *C/L*, pp. 258, 271, 269, 130, 132, 140 respectively (with some modification, particularly in the cases of Śls. 13–14). Śl. 12 has been translated by me. As for the reasons for choosing the readings I have adopted, see, Bhattacharya, 1996b, 1999i and 2002a.
+
+<details><summary>Transliterations (द्रष्टुं नोद्यम्)</summary>
+
+A. Aphorisms and pseudo-aphorisms
+
+**I. bhūtavāda**
+I.1. *athātastattvaṃ vyākhyāsyāmaḥ* (Ś 1, N A1)
+*TUS*, p. 1 (Franco p. 68); *NM*, Ch. 1, Part 1, p. 100.8; *GrBh* (on *NM*, Ch. 1), p. 100.20.
+
+I.2. *pṛthivyāpastejovāyuriti tattvāni* (Ś 2, N A2)
+*TSP*, p. 633; *MAP*, p. 99b (see, N, p. 38 n11 on A2–3); *LTN* (on 2.3), f. 24a; + *UBhPK*, p. 668; + *TSV* (on 1.98 and 1.104), pp. 27–28; *ŚBh* (with some variants) (on 3.3.54), p. 854; + *Bhām* (on *BS* 3.3.53), p. 854; *BSBh* (on *BS* 3.3.53), p. 196; *TUS*, p. 1 (Franco p. 68); + *NKC*, p. 341; + *PKM*, p. 116; + *PVA*, p. 54; + *GrBh* (on *NM*, Ch. 1), Part 1, p. 100.20; *PC*, Act 2, p. 40; *ST*, p. 13; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); + *SVR*, pp. 1075, 1086; *VPS*, p. 211; *TRD*, p. 307 (This and the following four aphorisms are also found in many philosophical digests such as *SDS*, p. 2). [[P8]]
+
+I.3. *tatsamudāye śarīrendriyaviṣayasaṃjñāḥ* (Ś 2, N A3)
+*TSP*, p. 634; *LTN*, f.24a; *UBhPK*, p. 668; *TUS*, p. 1 (Franco, p. 68); *TSV* (on 1.104), p. 28; *BSBh* (on *BS* 3.3.53), p. 196; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); *NKC*, p. 341; *PKM*, p. 116; + *PVA*, p. 54; *NVV*, p. 93; *TRD*, p. 307.
+
+I.4. *tebhyaścaitanyam* (Ś 3, N A4)
+*TSP*, p. 633; + *UBhPK*, p. 668; + *TSV* (on 1.104), p. 28; *ŚBh* (on *BS* 3.3.53), p. 851; *BSBh* (on *BS* 3.3.53), p. 196; *ĀLVṛ* (see, N, p. 38 n11 on A2–8); + *GrBh* (on *NM*, Ch. 7), Part 2, pp. 257–258; *NKC*, p. 341; + *PKM*, p. 116; + *PVA*, p. 54; + *NVV*, pp. 93, 106; + *ST*, p. 13; + *SVR*, pp. 1073, 1081; + *TRD*, p. 307.
+
+I.5. *kiṇvādibhyo madaśaktivat* (Ś 4, N A5)
++ *LTN* (on 2.31), f.24a; + *UBhPK*, p. 668; *ŚBh* (on *BS* 3.3.53), p. 851 (with variants); + *SKSVṛ*, p. 11 (with variants); + *PrPañ*, p. 326; + *NM*, Ch. 7, Part 2, p. 217.23 (cf. p. 201.26); *BSBh* (on *BS* 3.3.53), p. 196; *SVT*, Part 1, pp. 283, 291; (cf. + *YTC*, pp. 252–253); *ĀLVṛ* (see, N, p. 38 n11 on A2–8); *NKC*, p. 342; *PKM*, p. 115; + *PVA*, p. 54; *ST*, p. 13; + *NVV*, pp. 93, 107; *SVR*, pp. 1073, 1086; *KB* p. 44; + *VK*, p. 854 (cf. *PrPa*, on *MS* 18.6; p. 64; *ṢDSam*, v. 84, p. 306; *TRD*, p. 307).
+
+I.6. *caitanyaviśiṣṭaḥ kāyaḥ puruṣaḥ* (Ś 7, N A10)
++ *LTN*, f.24a; *ŚBh* (on *BS* 3.3.53), p. 851; (cf. on 1.1.1, pp. 81–82); + *PrPañ*, Ch. 8, p. 320; [*NM*, Ch 7, Part 2, p. 201.21]; + *Vyo*, Part 1, p. 137; + *NVV*, p. 93; *TRD*, p. 300 *GBhŚr* (on *Gītā* 16.11), p. 643; *GBhM* (on *Gītā* 16.11), p. 642 (cf. *dehamātraṃ caitanyaviśiṣṭam ātmā*, *GBhM* (on *Gītā* 2.13), p. 48); *ABS*, Ch. 2, p. 99; *GBhN* (on *Gītā* 16.11–12), p. 642.
+
+I.7. *śarīrād eva* (Ś 22, N A9)
+*TUS*, p. 88 [cf. *TS*, p. 635: *kāyād eva*, which Ś quotes];
++ I.8. *śarīre bhāvāt*
++ *ŚBh* (on *BS* 3.3.53), p. 851 (cf. Śaṅkara on *Pr. Up.* 6.2. p. 195).
+
+I.9. *jalabudbudavajjīvaḥ* (N A6)
++ *LTN*, f.24a; [*UBhPK*, p. 668]; [*SKSVṛ*, p. 11], [*YTC*, p. 253]; *SVT*, pp. 283, 291; *NKC*, p. 342; *SVR*, p. 1074; *TRD*, p. 300.
+
+**II. svabhāvavāda**
+II.1. *janmavaicitryabhedājjagadapi vicitram* (N A7)
+*ĀLVṛ* (see, N, p. 38, n11 on A2–8).
+
+II.2. *mayūracandrakavat* (N A8)
+*ĀLVṛ* (see, N, p. 38, n11 on A2–8) (cf. *NVV*, Part 2, p. 106: *svabhāvādeva mayūracitrādivat* ...). [[P9]]
+
+**III. pratyakṣapradhānyavāda**
+III.1. *pratyakṣam (ekam) eva pramāṇam* (Ś 20, 25; N A13)
++ *VABh*, Part 2, p. 439; + *TSP*, p. 945; + *UBhPK*, p. 668; *SKSVṛ*, pp. 10, 12; + *AS*, p. 36; + *SVT*, pp. 277, 293; *TBV*, Part 1, p. 73; *NKC*, p. 347; + *PKM*, pp. 177–178; *PC*, Act 2, p. 40; + *SVR*, p. 261; + *NSi* (on *Pr.Pañ.*, Ch. 6, v.1), p. 112; + *VPS*, p. 211 (Also found in *Mān.*, Ch. 5, v.1, p. 59; + *AYVD*, on v.20, p. 130; + *NTD*, p. 88; *SDS*, Ch. 1, p. 3; *SDK*, pp. 4, 108; *SMS*, p. 15; *ŚDSi*, p. 1).
+
+III.2. *pramāṇasyāgauṇatvād anumānād arthaniścayo durlabhaḥ* (Ś 21, N D1)
+*NM*, Ch. 1, pp. 177, 183; *AS*, p. 36; *NBh*, p. 210; *Vyo.*, Part 2, p. 161; *TBV*, pp. 70, 72, 354; *PVSVT* p. 25; *PKM*, p. 178; *SVR*, pp. 261, 265.
+
+**IV. punarjanmaparalokavilopavāda**
++ IV.1. *paralokasiddhau pramāṇābhāvāt*
+  *SVR*, p. 1109 (cf. *UBhPK*, p. 668; *PC*, Act 2, p. 40; *SDK*, p. 4).
+
+IV.2. *paralokino’bhāvāt paralokābhāvaḥ* (Ś 17, N A11)
+*TSP*, p. 633; *TUS*, p. 45 (Franco, p. 228); + *ĀD*, Act 3, p. 65; + *YTC*, p. 269; *TBV*, pp. 71, 91, 739; *NKC*, pp. 343, 345; + *PKM*, p. 116; *SVR*, p. 1109.
+
++ IV.3. *paralokicaitanyaṃ niravayavatvāt*
+  *SVR*, p. 1109.
+
+**V. vedaprāmāṇyaniṣedhavāda**
++ V.1. *dharmo na kāryaḥ*
+  *NM*, Ch. 4, Part 1, p. 388 (cf. *KS*, 1.2.25: Ś 9, N A16).
+
++ V.2. *tad upadeśeṣu na pratyetavyam*
+  *NM*, Ch. 4, Part 1, p. 388.
+
+
+B. Extracts from commentaries
+
++ Bhā.1. *evamādis Tattvaṭīkāyām udāharaṇaprapañco draṣṭavyaḥ.*
+  *TSP*, p. 521 (on *TS*, Ch. 18, v. 1458).
+
++ Bhā.2. *Aviddhakarṇas Tattvaṭīkāyāmāha – “nanu vā pramāṇena kiṃ iti paraḥ pratipadyate, ubhayasiddhaṃ hi pratipādakaṃ bhavatīti? tad etad ayuktam; yasmād vacanātmakaṃ anumānam, na ca vaktuḥ pramāṇam, atha ca vaktā tena paraṃ pratipādayati, parapratipādanārthatvāt prayāsasya, nāvaśyam ubhayasiddhena prayojanam” iti.*
+  *TSP*, p. 529 (on *TS*, Ch. 18, v. 1484). [[P10]]
+
++ Bhā.3. *tena yad ucyate ’viddhakarṇena – “satyam anumānam iṣyata evāsmābhiḥ pramāṇam lokapratītatvāt kevalaṃ liṃgalakṣṇamayuktaṃ”.*
+  *PVSVT*, p. 19.
+
++ Bhā.4. *tena yad ucyate ’viddhakarṇena – “anadhigatārthaparicchittiḥ pramāṇam ato nānumānaṃ pramāṇam arthaparicchedakatvabhāvād” iti.*
+  *PVSVT*, p. 25.
+
++ Bhā.5. *itarasya acetanasya vā bhūmyādeḥ mūrtasya. anena Aviddhakarṇasya samayo darśitaḥ.*
+  *SVT*, p. 306.
+
++ Bhā.6. *kaścana cārvākaviśeṣo ’viddhakarṇaḥ.*
+  *NVV*, Part 2, p. 101.
+
++ Bhā.7. *suśikṣitacārvākāḥ Udbhaṭādayaḥ.*
+  *GrBh*, p. 52.26 (on *NM*, Ch. 1, Part 1, p. 52.18–19). See also Bhā.29.
+
++ Bhā.8. *cārvākadhūrtastviti. Udbhaṭaḥ. sa hi lokāyatasūtreṣu vivṛtiṃ kurvan “athātastattvaṃ vyākhyāsyāmaḥ” “pṛthivyāpastejovāyur iti” sūtradvayaṃ yathāśrutārthatyāgenānyathā varṇayāmāsa. prathamasūtre tattvapadena pramāṇaprameyasaṅkhyālakṣaṇaniyamāśakyakaraṇīyatām āha, dvitīyasūtram api prameyaniyamapratipādakaṃ tena vyākhyātam. tatra hi “pṛthivyāpastejovāyur iti” ya “iti” śabdaḥ sa evaṃ prāyaprameyāntaropalakṣaṇatvena tasyābhimataḥ.*
+  *GrBh*, p. 100.19–24 (on *NM*, Ch. 1, Part 1, p. 100), Shah, p. 43.
+
++ Bhā.9. *cirantanacārvākair hi Bhāvivikta-prabhṛtibhiḥ “bhūtebhyaścaitanyam” iti sūtraṃ bhūtebhya iti pañcamyantapadayojanayā vyākhyātaṃ, bhūtebhya utpadyate caitanyam iti. Udbhaṭena tu “bhūtebhyaḥ” iti padaṃ caturthyantatayā vyākhyātaṃ, bhūtebhyaścaitanyaṃ bhūtārthaṃ caitanyaṃ svatantram eva śarīrārambhakabhūtopakārakam ityarthaḥ.*
+  *GrBh*, p. 257.24–26–258.21 (on *NM*, Ch. 7, Part 2, p. 257); Shah, p. 197.
+
++ Bhā.10. *yathā Udbhaṭena uktam – “śarīrārambhakakāraṇānām eva bhūtānām sa kaścit tādṛśo vicitrasukhaduḥkhopabhogado dharmaḥ svabhāvaviśeṣa ityarthaḥ”.*
+  *GrBh*, p. 262.25–27 (on *NM*, Ch. 7, Part 2, p. 262); Shah, p. 198.
+
++ Bhā.11. *Tattvavṛttāvudbhaṭena – “lakṣaṇakāriṇā lāghvikatvenaiva śabdaviracanavyavasthā, na caitāvatā’numānasya gauṇatā, yadi ca sādhyikadeśadharmidharmatvaṃ heto rupaṃ brūyuste, tadā* [[P11]] *na kācillakṣaṇe’pi gauṇīvṛttiḥ”.*
+  *SVR*, p. 265.16–19.
+
++ Bhā.12. *“hetoḥ svasādhyaaniyamagrahaṇe prakāratrayamiṣṭaṃ darśanābhyām aviśiṣṭābhyāṃ darśanena viśiṣṭānupalabdhisahitena bhūyodarśanapravṛttyā ca lokavyavahārapatitayā, tatrādyena grahaṇopāyena ye hetor gamakatvam icchanti tān pratīdam sūtram. lokaprasiddheṣvapi hetuṣu vyabhicāradarśanam asti tantrasiddheṣvapi tena vyabhicāradarśanalakṣaṇaguṇasādharmyataḥ tantrasiddhahetunāṃ tathābhāvo vyavasthāpyata iti gauṇatvam anumānasya. avyabhicārāvagamo hi laukikahetūnām anumeyāvagame nimittaṃ sa nāsti tantrasiddheṣviti na tebhyaḥ parokṣārthāvagamo nyāyyota idam uktam anumānād arthaniścayo durlabha iti”.*
+  *SVR*, p. 265, 23–24, p. 266, 1–8.
+
++ Bhā.13. *uktam ca Tantravṛttau Bhaṭṭodbhaṭena – “sarvaśca dūṣaṇopanipāto’prayojakahetum ākramatītyaprayojakaviṣayā viruddhānumānavirodhaviruddhāvyabhicāriṇaḥ”.*
+  *SVR*, p. 270, 3–5.
+  *Tantravṛtti* may be misprint for *Tattvavṛtti* (as noted by Solomon, p. 990 n14).
+
++ Bhā.14. *yatra tu Bhaṭṭodbhaṭaḥ prācīkaṭat – “nahyatra kāraṇam eva kāryātmatāmupaiti yata ekasyākāraṇātmana ekakāryarūpatopagame tadanyarūpābhāvāt tadanyakāryātmanopagatir na syāt. kiṃ tvapūrvameva kasyacidbhāve prāgavidyamānaṃ bhavat tat kāryam. tatra viṣayendriyamanaskārāṇām itaretaropādānahitarūpabhedānāṃ sannidhau viśiṣṭasvetarakṣaṇābhāve pratyekaṃ tadbhāvābhāvānuvidhānād anekakriyopayogo na virudhyate. yata ekakriyāyām api tasya tadbhāvābhāvitaiva nibandhanaṃ sā cānekakriyāyām api samānā” iti.*
+  *SVR*, p. 764. 6–13.
+
++ Bhā.15. *tatrāyaṃ jaraddvijanmā mahānubhāvo’bhinavam etam uttaramārgaṃ asmān prati prakāśayati.*
+  *SVR*, p. 764, 24–25.
+
++ Bhā.16. *yadācaṣṭa Bhaṭṭodbhaṭaḥ – “itiśabdaḥ pradarśanaparo na punaḥ samāptivacanaś caitanyaśabdasukhaduḥkhecchādveṣaprayatnasaṃskārāṇāṃ tattvāntaratvāt pṛthivyādiprākpradbhavṃsāpekṣānyonyābhāvānāṃ cātyantaprakaṭatvād uktatvavilakṣaṇatvācceti”.*
+  *SVR*, p. 1087, 1–4. [[P12]]
+
++ Bhā.17. *Kambalāśvatroditam*
+  *TS*, Ch. 22, v. 1863, p. 635; *TSP* on *TS* (as above).
+  See also “Aphorisms and Pseudo-aphorisms”, I.7
+
+Bhā.18. *Purandaras tvāha – “lokaprasiddham anumānaṃ cārvākair apīṣyata eva, yattu kaiścil laukikaṃ mārgam atikramyānumānam ucyate tanniṣidhyate”*(Ś 35, N D2).
+*TSP*, p. 528 (on *TS*, Ch. 18, v. 1481).
+
++ Bhā.19. *emeya karivi appaṇiya utti /*
+  *kiṃ jaṃpasi pauram̐dariya vitti //*
+  *MahāP*, 20.18.9, p. 328.
+
++ Bhā.20. *[caitanyasya] mūrtasya pṛthivyādi-catuṣṭayasya jñānam anena pauram [paurandaram] matam darśitam.*
+  *SVT*, p. 306.
+  Mahendrakumāra Nyāyācārya offers an emendation of the first word: *caitanyaviśiṣṭasya* (p. 306 n16).
+
++ Bhā.21. *... na kevalam Purandarādeḥ ...*
+  *NVV*, Part 2, p. 101.
+
++ Bhā.22. *[Purandara] cārvākamate granthakartā*
+  A marginal note on a passage found in a MS of Puṣpadanta’s *Mahāpurāṇa* (most probably the passage cited above as Bhā.19), quoted in P.D. Gune’s introduction to the edition of Dhanapāla’s *Bhavisayatthakahā*, p. 42.
+
++ Bhā.23. *Bhāvivikta*
+  *GrBh*, p. 257.24 (on *NM*, Ch. 7 Part 2, p. 257); Shah, p. 197. See, Bhā.14 above.
+
+Bhā.24. *yā garbhasthātītaloko’stīti tadarthasiddhyartham garbhasthātītabuddhiḥ samanantaraniruddhabuddhipūrvikā, buddhitvāt, tadanantarabuddhivad iti sādhanaṃ vadanti, teṣām dṛṣṭānto nāsti. evaṃ maraṇam yāvat sthitānāṃ manuṣyāṇāṃ buddhyekamātratvaniṣpannatvāt, tatastāvan na pūrvaloka iti* (N F2).
+*PrPr*, 204, a, 2–4 (on *MS* 16.1) (For another restoration, see, Pandeya, Part 2, p. 3). Cf. *TUS*, p. 57.
+
+Bhā.25. *na hi devadattasya maraṇacittam cittāntareṇa pratisandhīyate, maraṇacittatvāt, arhato maraṇacittavat* (N F3).
+*PrPr*, 204, a, 4–5 (on *MS* 16.1) (For two other restorations see, Pandeya, Part 2, p. 3 and Franco, 1997, p. 116). Cf. *TSP*, p. 635 (on *TS*, vv. 1862–1863).
+
++ Bhā.26. *deśāntaram kālāntaramavasthāntaraṃ vā paralokaḥ.*
+  *TSP*, p. 637 (on *TS*, Ch. 22, vv. 1871–1876). [[P13]]
+
+Bhā.27. *ihalokaparalokaśarīrayor bhinnatvāt tadgatayorapi cittayornaikaḥ santānaḥ* (Ś 18, N F4).
+*TSP*, p. 663 (on *TS*, vv. 1938–1940). Cf. *PVA*, p. 105. 21.
+
++ Bhā.28. *jātismaraṇāmasiddhamekaggrāmāgatānāṃ sarveṣāṃ smaraṇāt.*
+  *TSP*, p. 665 (on *TS*, Ch. 22, v. 1945).
+
++ Bhā.29. *aśakya eva pramāṇasaṅkhyāniyama iti suśikṣitacārvākāḥ.*
+  *NM*, Ch. 1, Part 1, p. 52. 18–19 (see, Bhās. 8 and 16).
+
++ Bhā.30. *suśikṣitatarāḥ prāhuḥ – dvividham anumānam, kiñcid utpannapratīti, kiñcid utpādyapratīti, īśvarādyanumānantu utpādyapratīti.*
+  *NM*, Ch. 2, Part 1, p. 184.6–7. See also Śls. 18–20 below.
+
+C. Verses attributed to the Cārvākas
+
+Śl.1. *na svargo nāpavargo vā naivātmā pāralaukikaḥ /*
+*naiva varṇāśramādīnāṃ kriyāśca phaladāyikāḥ //*
+(Ś 39, N B4).
+*PPu*, Sṛṣṭikhaṇḍa 13.323; *SDS*, p. 13, v. 1, lines 110–111; *VMT*, 3.2.
+
+Śl.2. *agnihotraṃ trayo vedās tridaṇḍaṃ bhasmaguṇṭhanam /*
+*buddhipauruṣahīnānāṃ jīviketi bṛhaspatiḥ //*
+(Ś 40, N B7).
+*RVP*, p. 285; *PC*, 2.26, p. 44; *GrBh*, Part 2, p. 228 (on *NM*, Ch. 7); *NC*, 17.39; *NP*, p. 365 (on *NC*, 17.39); *SDS*, pp. 5.50–51, 13.112–113; *BhD* on the *Mbh.*, Śāntiparvan, 218.25 (Vulgate ed.), 211.24 (Critical ed.); *ABS*, Ch. 2, p. 100; *SMS*, p. 15; *SSS*, p. 6.
+
+Śl.3. *paśuścen nihataḥ svargaṃ jyotiṣṭome gamiṣyati /*
+*svapitā yajamānena tatra kasmān na hiṃsyate //*
+(Ś 41, N B8).
+*VPu*. 3.18.26; *PC*, 2.20, p. 40; *SDS*, p. 13.14–15; *ABS*, p. 101 (quoting from *VP*).
+Cf. *ŚKA*, p. 19 (*DA*, p. 321, vv. 23–24).
+
+Śl.4. *mṛtānām api jantūnāṃ śrāddhaṃ cet tṛptikāraṇam /*
+*nirvāṇasya pradīpasya snehaḥ saṃvardhayec chikhām //*
+(Ś 42, N B9).
+*PC*, 2.21, p. 40; *SDS*, p. 13. 116–117.
+
+Śl.5. *gacchatām iha jantūnāṃ vyarthaṃ pātheyakalpanam /*
+*gehasthakṛtaśrāddhena pathi tṛptir avāritā //*
+(Ś 43, N B10).
+*SDS*, p. 14. 118–119. [[P14]]
+
+Cf. *VPu*. 3.18.29, also quoted in *ABS*, Ch. 2, p. 101; *Rām.*, Ayodhyā. 109.15 (Vulgate).
+
+Śl.6. *svargasthitā yadā tṛptiṃ gaccheyus tatra dānataḥ /*
+*prāsādasyoparisthānām atra kasmān na dīyate //*
+(Ś 44, N B11).
+*SDS*, p. 14. 120–121.
+
+Śl.7. *yāvaj jīvaṃ sukhaṃ jīven nāsti mṛtyor agocaraḥ /*
+*bhasmībhūtasya śāntasya punarāgamanaṃ kutaḥ //*
+(Ś 45, N B3).
++ *VDMP*, 108. 18–19; + *TSP*, p. 17; + *NM*, Ch. 4, Part 1, p. 388; Ch. 7, Part 2, p. 257; + *TBV*, p. 505 n6; + *YTC*, Part 2, p. 253; *MB*, p. 14; + *Pari.*, p. 113 (on *NS*, 1.1.2); *TSPC*, 1.345, p. 12; *Dohā.*, p. 86; *NC*, 17.69; *SDS*, p. 2. 17–18; p. 14. 125–126; *TRD*, p. 202; *SDK*, 108.
+
+Śl.8. *yadi gacchet paraṃ lokaṃ dehād eṣa vinirgataḥ /*
+*kasmād bhūyo na cāyāti bandhusnehasamākulaḥ //*
+(Ś 46, N B12).
+*SDS*, p. 14. 124–125.
+
+Śl.9. *tataś ca jīvanopāyo brāhmaṇair vihitas tviha /*
+*mṛtānāṃ pretakāryāṇi na tvanyad vidyate kvacit //*
+(Ś 47, N B13).
+*SDS*, p. 14. 126–127.
+
+Śl.10. *trayo vedasya kartāro bhaṇḍadhūrtaniśācarāḥ /*
+*jarbharīturpharītyādi paṇḍitānāṃ vacaḥ smṛtam //*
+(Ś 48, N B14).
+*SDS*, p. 14. 128–129; + *GBhŚr* (on *Gītā*, 16.8); *GBhVi* (on *Gītā*, 16.8); *SMS*, p. 15 (first line only – with variants).
+
+Śl.11. *aśvasyātra hi śiśnaṃ tu patnīgrāhyaṃ prakīrtitam /*
+*bhaṇḍais tadvat paraṃ caiva grāhyajātaṃ prakīrtitam //*
+*māṃsānāṃ khādanam tadvan niśācarasamīritam //*
+(Ś 49, N B15–16).
+*SDS*, p. 15. 130–132.
+
+Śl.12. *nagna śramaṇaka durbuddhe kāyakleśaparāyaṇa /*
+*jīvikārthe ’pi cārambhe kena tvam asi śikṣitaḥ //*
+(Ś 51, N B6).
+*TUS*, p. 79. 17–18.
+
+Śl.13. *etāvān eva puruṣo yāvān indriyagocaraḥ /*
+*bhadre vṛkapadaṃ hy etad yad vadanti bahuśrutāḥ //*
+(Ś 19, N B2).
++ *PrPa*, Vol. 2, p. 65 (on *MS*, 18.6); *MĀV*, p. 209; *PrPr*, Vol. 2, p. 3 (on *MS*, 16.1), 64 (on *MS*, 18.6); *VBhSVṛ*, Part 1, p. 186; [[P15]] Part 2, pp. 344, 439; *TSP*, p. 637. 19–20; *ṢDSam.*, p. 301. 14–15; v.81; *LTN*, v.33, f. 24b; *MVṛ*, p. 129 (on *SK*, 17); *SKSVṛ*, p. 10 (on *SKS*, 1.1.6); *Ṣaḍ – DS*, p. 81, v.160; Hemachandra Sūri on *GV*, 1.5(1553), p. 10; *LṢDSam.*, p. 256.
+  Cf. *Mbh.*, Śānti, Vulgate, 134.2; Crit. ed. 132.1ef–2ab.
+
++ Śl.14. + *piba khāda ca cārulocane yadātītaṃ varagātri tanna te /*
+  *na hi bhīru gataṃ nivartate samudayamātram idaṃ kalevaram //*
+  *PrPr*, Vol. 2, p. 3 (on *MS*, 16.1), 64 (on *MS*, 18.6); *ṢDSam*, p. 304. 14–17, v.82; *SKSVṛ*, p. 10 (on *SKS*, 1.1.6), 49 (on *SKS*, 2.3.11); *ĀSVṛ*, p. 123 (on *ĀS*, 1.4.2); *Ṣaḍ-DS*, p. 81, v.161 (verbatim reproduction of *ṢDSam.*, v.82).
+
+Śl.15. *tapāṃsi yātanāś citrāḥ saṃyamo bhyogavañcanā /*
+*agnihotrādikaṃ karma bālakrīḍeva lakṣyate //*
+(N B5)
++ *VDMP*, 1.108.14cd–15ab; + *LTN*, v.34, f. 25a; *TRD*, p. 302. 18–19.
+
++ Śl.16. + *viśeṣe ’nugamābhāvāt sāmānye siddhasādhanāt /*
+  *tadvato’nuppannatvād anumānakathā kutaḥ //*
+  *NM*, Ch. 2, Part 1, p. 177. 12–13; *PrPañ*, p. 206 (first line only: *viśeṣe ’nugamābhāvaḥ sāmānya siddhasādhyatā*); *AS*, Ch. 1, p. 36 (first line only: *sāmānye siddhasādhanād viśeṣe ’nugamābhāvāt*); *PVSVT*, p. 26 (first line only: *viśeṣenugamābhāvaḥ sāmānye siddhasādhanam*); *Vyo.*, Part 2, p. 161 (first line only: *sāmānye siddhasādhanam viśeṣe ’nugamābhāvaḥ*); *JñāNi*, No. 7, p. 268 (first line only, as in *PrPañ*); ibid., No. 7, p. 274 (first hemistich only, as in above); ibid., No. 11, p. 379 (first line only, as in above excepting *b*: *siddhasādhanam*); *ŚD*, p. 63 (*ab* as in *PrPañ*, *cd*: *anumābhaṅgapaṅke ’smin nimagna vādidantinaḥ*); ibid., p. 71 (first line only, as in *PrPañ*); *PKM*, p. 177.16 (first line only, as in *PVSVT*); *RNi*, No. 2, p. 54 (as in *ŚD* but line 1 becomes line 2 and line 2 = line 1 with variants in *2d*); *SVR*, p. 263. 12–13 (as in *NM*); *PaPañ*, p. 24 (the second line reads: *tadvato’nupapannatvādi anumānakathā kutaḥ*).
+
++ Śl.17. + *anumānavirodho vā yadi ceṣṭavighātakṛt /*
+  *viruddhavyabhicāro vā sarvatra sulabhodayaḥ //*
+  *NM*, Ch. 2, Part 1, p. 179. 1–2; *SVR*, p. 263.14–15 (v.2) (c. *viruddhāvyabhicārastu*).
+
++ Śl.18. + *tatra dhūmānumānādeḥ prāmāṇyaṃ kena neṣyate /*
+  *ato hi sādhyaṃ budhyante tārkikairakṣatā api //*
+  *NM*, Ch. 2, Part 1, p. 184. 8–9. [[P16]]
+
++ Śl.19. + *yattvātmeśvara – sarvajña – paralokādigocaram /*
+  *anumānaṃ na tasyeṣṭaṃ prāmāṇyaṃ tattvadarśibhiḥ //*
+  *NM*, Ch. 2, Part 1, p. 184. 10–11.
+
++ Śl.20. + *ṛjūnāṃ jāyate tasmānna tāvad anumeyadhīḥ /*
+  *yāvat kuṭilitaṃ ceto na teṣāṃ viṭatārkikaiḥ //*
+  *NM*, Ch. 2, Part 1, p. 184. 12–13.
+</details>
+
 
 ## A. Comments on the aphorisms and pseudo-aphorisms
 
