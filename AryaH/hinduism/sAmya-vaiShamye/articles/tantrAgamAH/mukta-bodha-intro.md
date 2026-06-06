@@ -1,0 +1,15 @@
++++
+title = "Mukta bodha intro"
++++
+
+## Tantranibandha
+The genre of the nibandha first emerged in the twelfth century within the discipline of Dharmaśāstra. Whereas earlier scholars had tended either to organize their arguments around the structure of the text they were commenting upon or to produce guides to practice privileging one particular dimension of a specific tradition, the nibandha gathers enormous compilations of citations drawn from a range of sources and traditions and then organizes them to make an argument. Central to this approach is the assumption that all of the texts upon which these resources are drawn worship in a parallel manner, share core values, and are effectively part of the same tradition, a position that often does not align with what is taught in the texts themselves.
+
+The Tantras seem to be among the first traditions to adopt the genre of the nibandha, and when they do so, the nature of Tantra as a knowledge system begins to change. Instead of each tantric tradition being defined by its distinctive theology, cosmology, and narrative traditions—many of which were mildly, or more so, in opposition to each other—Tantras increasingly become encyclopedic collections of different mantra applications addressed to a range of often unrelated deities from across the boundaries of Śaiva, Śākta, and Vaiṣṇava lineages.
+
+## smArta-nibandhas
+In the context of the MIRI collection, texts fall under the Smārta tradition when they are composed by authors from within those traditions, especially when they take as one of their major objectives reconciling Tantric knowledge with Smārta concepts and norms. Some key models for accomplishing this task include reframing Tantric Knowledge as representing an “upāsanākāṇḍa” that complements the karmakāṇḍa and jñānakāṇḍa of Pūrva- and Uttaramīmāṃsā. Another common feature is the reordering of saṃpradāya-specific ritual identities within the framework of a Pañcāyatana model, where the worship of Gaṇapati, Sūrya, Viṣṇu, Devī, and Śiva are seen as forming complementary parts of a ritual whole. Another frequent approach systematically homologizes the process, the language of expression, and the goal of Tantric worship with bodies of knowledge transmitted by traditions of Advaita Vedānta aligned with Śaṅkarācārya.
+
+In terms of the root tantras themselves, two foundational works are the Śāradātilaka Tantra and its commentary by the Maharashtrian Rāghavabhaṭṭa, and the Kerala-composed Prapañcasāra in the lineage of Śaṅkarācārya. 
+
+The MIRI library also contains a large number of works by the South Indian Tamil Advaita theologian Upaniṣadbrahmendra, based for much of his career in Kanchipuram. These comment upon the so-called “Yoga-Upaniṣads,” texts that incorporate a large amount of material on subtle-body yogic practices that they share with Śākta tantras in general and the writings of Nātha Yogīs in particular. In light of the pivotal role played by Smārta traditions in the early modern period, and their considerable influence on Tantric textuality, MIRI aims to incorporate in the future key works from the canon of Smārta traditions.
