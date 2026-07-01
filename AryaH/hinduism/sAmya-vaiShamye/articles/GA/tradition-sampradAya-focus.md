@@ -103,3 +103,18 @@ Orthopraxy’s standalone importance is over-rated. Yes, rituals are the body of
 “It’s ok to do without understanding the meaning or significance” is a degenerate idea that should be abandoned. It’s perfectly okay to know only a little and not know everything but it’s not okay to think that one does not have to strive to understand the significance of what one does. 
 
 Those whose practice is rooted in “let me just get through this observance for the sake of my family” will never be capable of passing down anything except an increasingly malnourished body of practices that will eventually die because the soul (faith) has left the body.
+
+## sat-sampradAya-s
+My idea of Sat-Sampradāyas is quite broad: Siddhānta (with 4/5 divisions), Pāśupata, Vīraśaiva/Śrautaśaiva, Nātha, Trika/Krama, Śrīkula, Kālīkula, Gauḍiya, Mādhva, Rāmānuja, Nimbārka, Vallabha, Vaikhānasa, etc. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+I was mainly trying to recall all Āgama/Tantra-based Sampradāyas; so was busy listing these. I was not trying to include smārta-Sampradāya since it’s a common base for all. Plus, in retrospect, I thought I had done the job by including Śrīkula/Śrīvidyā.
+</details>
+
+
+Each of these offers a complete system consisting of both darśana and upāsana. I have learnt quite a bit about Mādhva doctrines from you and @JoraShankara .
+
+I think it’s important that each Sampradāya puts itself out there for genuine seekers, anchoring them deep in Hindudharma while publicly avowing a constructive stand as regards fellow Sat-Sampradāyas.
+
+I honestly think there is a limited window for Sat-Sampradāyas to make known their relevance and importance. The hard truth is that our numerical superiority is not of much use because the average Hindu is not grounded in his faith; his decisions and values are not informed by his faith. This is where Sat-Sampradāyas need to come in, and they ought to have started this aggressively at least a few decades earlier. But it’s not too late yet and they ought to take this seriously.
