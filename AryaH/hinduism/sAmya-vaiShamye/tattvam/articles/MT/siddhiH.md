@@ -7,6 +7,10 @@ Source: [TW](https://x.com/blog_supplement/status/2035929320674201805)
 
 Anecdotally, it is interesting that mantra-siddha-s often seem to transmit something to their offspring. It usually lasts about 2 generations downwards. It is not the siddhi itself, but maybe some physical effect of it or some reconfiguration of it, albeit mixed in with some degenerations or negatives. I don't fully understand why this is so.
 
+Source: [TW](https://x.com/blog_supplement/status/2072918004900257999)
+
+Sometimes a pious individual receives a dIkSha from a mantravAdin but nothing of its siddhAnta and Agama. The individual performs the given sAdhanA sincerely for a long time until eventually yama bears them away. Then, suddenly, in their family is born an individual who acquires a good body of siddhAnta and Agama out of the blue, though the rest in the family are ordinary and disinterested. That individual understands the foundations and intricacies of what the ancestor only had glimpses of. Nevertheless, the ancestor had uttered deep vachana-s without fully understanding them, nor did the people around him/her understand them. Now the descendant understands all of that. Peculiar phenomenon indeed.
+
 ## Group
 Source: [TW](https://twitter.com/blog_supplement/status/1735509258219762066)
 
