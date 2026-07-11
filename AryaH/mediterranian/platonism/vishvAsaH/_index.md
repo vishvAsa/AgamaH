@@ -39,6 +39,8 @@ Like shaiva-tattvas, they explain emergence of a series of "hypostases".
 > 
 > In this series, one must also understand that the “higher” hypostases extend their causality further than the “lower”, so that all beings, for example, are also ones, all living things are beings, and all intellects are living beings.
 > 
+> We can perhaps see most clearly how this works by considering a non-intelligent being. We offer to the God a unique individual: *this* mango. The divinization proceeding from this encompasses the mango as a kind of fruit, and other universal forms, but the unit comes first.
+> 
 > -EB
 
 ### Concomitant inner and outer activities
@@ -168,6 +170,13 @@ See [sallustius](sallustius/).
 ## Adoration of the Gods
 - Theurgy (θεουργία) describes the practice of rituals, sometimes seen as magical in nature, performed with the intention of invoking the action or evoking the presence of one or more deities, especially with the goal of achieving henosis (uniting with the divine) and perfecting oneself.
 - "no Neoplatonist, not even Plotinus, thinks that souls can permanently transcend Being. Most think the soul cannot transcend the cosmos."
+
+## Reversion to Unit
+Things revert upon Unity, therefore, not qua forms or beings but qua units. (Like the inert rock-like inert end-state of the naiyyAyika-s.)
+
+This unit-formed reversion comes about not through intellectual contemplation, but through the direct action of units on units—that is, of Gods on individual beings. This also means that the hierarchical implication of "ascension" is fundamentally undermined, since every level of Being is illuminated directly by a corresponding class of supra-essential Gods, and hence reverts directly to the first principle—no "ladder" to climb.
+
+
 
 ## Ethics
 > "human existence is a striking representation of the cosmos as a whole, a microcosm in which all levels of being (Unity, Consciousness, Soul, Nature, Matter) are combined into one organic individual. A human being is therefore in the first instance not a social or political being, but a divine being"
