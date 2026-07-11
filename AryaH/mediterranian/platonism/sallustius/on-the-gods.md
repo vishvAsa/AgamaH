@@ -2,6 +2,11 @@
 title = "On the Gods and The World by Sallustius"
 +++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+For collation of Roman, hindu and bauddha surmises on sacred mythical reality, see: [TW](/AgamaH/meta/myth/parallel-reality-models).
+</details>
+
 
 On the Gods and The World by Sallustius
 
