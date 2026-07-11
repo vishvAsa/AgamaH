@@ -16,7 +16,7 @@ It is understandable that some people hold that the first model is entirely fals
 If one must accept myth (eg. rAmAyaNa) as literal truth, one can stay scientifically sane and satisfy the traditionalists - one can follow what some pUrvAchArya said - "yado oru kalpattile ..."  . The usual kalpabheda trick.
 
 ## Parallel universe
-Some shaiva-s admit a separate levels of reality. So, there's a "buddhi-tattva" with "bhuvana-s" different from our universe, which is situated in "pRthvI-tattva". This model lets purANic events be "real" - albeit in a different tattva.
+Some shaiva-s (Eg. siddhArtha/ GA) admit a separate levels of reality. So, there's a "buddhi-tattva" with "bhuvana-s" different from our universe (which is situated in "pRthvI-tattva"). This model lets purANic events be "real" - albeit in a different tattva. Not sure if this has basis in their Agamas.
 
 ## Historification
 ### Christian desacralization
