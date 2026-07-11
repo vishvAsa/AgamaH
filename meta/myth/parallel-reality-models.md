@@ -53,7 +53,7 @@ Source: [TW](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-pr
 
 The Roman pagans were thrown into a quandary when Christians attacked them on the same grounds. Their response was quite solid as it is (eg. sallustius in "On the Gods" ([here](/AgamaH/AryaH/mediterranian/platonism/sallustius/on-the-gods/))), and we can adapt and build upon it. 
 
-
+There is a parallel among the vajrayAna bauddhas ([TW](bauddham/meta/counter-religion/articles/rudra-suppression-appearence)), where Klon-chen-pa and predecessors say that the Rudra-taming episode is _enacted_ only to illustrate the principles of the Vajrayāna teachings.
 
 ## Presentation
 <div class="videoEmbed"  caption="SthaneshvaraH" src="https://www.youtube.com/watch?v=CypzlHmH6xw"></div>
