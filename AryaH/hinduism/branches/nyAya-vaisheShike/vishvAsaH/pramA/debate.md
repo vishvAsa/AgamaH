@@ -4,6 +4,10 @@ unicode_script: devanagari
 
 ---
 
+## वाद-विभागः
+<div class="spreadsheet" src="../vAdaH.json"> </div>  
+
+
 ## औचित्यम्
 
 - संयतैः सत्पात्रैस् सहैव वादः। स च पूर्वपक्षकथनपूर्वक एव स्यात् सुव्यवस्थितः।
@@ -35,11 +39,6 @@ and taking down strawmen)
 पक्षे श्रावकान् उद्दिश्य सारः प्रस्तोतव्यः, उपहासो वाऽपि कार्यः।
 
 Tricks for dealing with mala-fide debates or propaganda arguments from pretentious dunces:  [KV](http://indiafacts.org/responding-to-mehdi-hasan-how-hindus-should-engage-their-opponents/).
-
-
-## विषय-प्रस्तुतिः
-'उद्देशो लक्षणं परीक्षा च' इति क्रम उच्यते।  
-नाम्ना पदार्थ-संकीर्तनम् उद्देशः ।
 
 ## पूर्वपक्षाभिज्ञानम्
 
