@@ -118,6 +118,9 @@ and which furnish for Proclus the *classes* of Gods."
 - "Gods are hyperessential+++(=transcending substance and time)+++ henadic+++(=like Atmans)+++ hypostases+++(=underlying entities)+++ emanating a seira+++(=chain [of manifestations])+++" - [KM](https://twitter.com/KaraMartiana/status/1077528569365049345)
 - ""Hyperessential" (Greek huperousios) refers to entities like the Gods who transcend being or substance. "
 
+> "Each God, though She contains the entire universe, is ontologically speaking absolutely simple (haplos), because She has no properties from another source." - EB
+
+
 ### Impact on practice
 - As per the philosophy itself, no single mythic space is absolute. Every revelation is perfect in itself. A theologian cannot transgress the philosopher's boundary in this system and assert that the Gods he worships uniquely fill the positions in the hierarchy of reality.
 - One cannot assert that all national pantheons are really the same set under different names; or that various deities are merely different names of the same one God. If individuality (To Hen) is the ultimate form, proper name is ultimate. So, one can compare the activities of Zeus and Indra, one cannot assert their identity.
@@ -127,8 +130,6 @@ and which furnish for Proclus the *classes* of Gods."
 See [sallustius](sallustius/).
 
 ### Humans and henads
-> "Each God, though She contains the entire universe, is ontologically speaking absolutely simple (haplos), because She has no properties from another source." - EB
-
 > "It is by no means certain  
 > that there is a supra-essential "core" to our individuality  
 > that would place us on the same footing as the Gods.  
