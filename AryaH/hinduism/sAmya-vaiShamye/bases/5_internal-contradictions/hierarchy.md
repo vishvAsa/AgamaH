@@ -11,7 +11,11 @@ title = "Hierarchy"
 अनुमानं न स्वतन्त्रम् प्रमाणम् -  
 तन् नाम्नैव ज्ञायते।  
 अनुमानं प्रत्यक्षं शब्दं वानुसरेत्।  
-न कदाचिद् अपि स्वमूलम् उपरोद्धुं शक्नोति। 
+न कदाचिद् अपि स्वमूलम् उपरोद्धुं शक्नोति।  
+न वचनविरोधे युक्तिर् वर्तते। विस्तारो ऽन्यत्र ([रा](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni))।
+
+
+
 
 > > तथा सति हि  
 ज्वाला-भेदानुमानम् अपि  
@@ -32,7 +36,7 @@ title = "Hierarchy"
 नासौ तत्रैकत्वानुमानम् अभिभवितुं प्रभवति ।
 
 
-इति यामुन आत्मसिद्धौ [TW](/rAmAnujIyam/tattvam/yAmunaH/siddhi-trayam/sarva-prastutiH/02_AtmasiddhiH/12_na_saMvit) । 
+इति यामुन आत्मसिद्धौ [TW](/rAmAnujIyam/tattvam/yAmunaH/siddhi-trayam/sarva-prastutiH/02_AtmasiddhiH/12_na_saMvit) आधार-भेदेनानुमानसौष्ठव-भेदम् आह। 
 
 
 ## प्रत्यक्षम् अनुमानोपबृंहितम्
@@ -414,8 +418,24 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 धर्म-शास्त्रोदितं वचः  ॥ १।११३ ॥
 
 
-## युक्ति-मात्रम्
-न वचनविरोधे युक्तिर् वर्तते। विस्तारो ऽन्यत्र ([रा](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni))। 
+## निबन्धाः
+### A note on irreverence to over-extended authority
+Love truth more than pride.
+
+My own experience of causing erudite scholars (RG, NiMi, ViSu, StTi, JaSc... ) to steam through the ears tells me its simply not worth it to give a damn (beyond issuing some basic clarification/ opening for friendship). Usually the steam dissipates after some time.
+
+Ultimately you take what ever you find valuable from them without unnecessary ego issues on your side, and let those afflicted by vidyA-mada etc.. roil in the murk of their own follys.
+
+<details><summary>Academia</summary>
+
+I find the fixation on "academics" odd for a person capable of independent study and thought. Fixation on "sound scholarship" is a good thing - whether such is circulated via books, journals, blog posts, twitter threads or vAkyArtha-sabhA-s. Being prejudiced by "scholar got salary from some academy" is rather akin to "lineage-kanging" among so-called traditionalist Hindus.
+
+Oft, appeals to "academic consensus" reminds me of similar appeals to "traditional paNDits" in some online arguments.
+
+</details>
+
+
+
 
 ## शिष्टाचारः
 शिष्टाचारे सामान्य-विषया उपरि आचाराख्यायिकासु दृश्याः।  

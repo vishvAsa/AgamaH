@@ -58,22 +58,6 @@ Eg. One would be doing chinnajIyar disservice if one's defence of his statements
 एतद् विना वादो न प्रवर्तेत।
 
 
-#### A note on irreverence to over-extended authority
-Love truth more than pride.
-
-My own experience of causing erudite scholars (RG, NiMi, ViSu, StTi, JaSc... ) to steam through the ears tells me its simply not worth it to give a damn (beyond issuing some basic clarification/ opening for friendship). Usually the steam dissipates after some time.
-
-Ultimately you take what ever you find valuable from them without unnecessary ego issues on your side, and let those afflicted by vidyA-mada etc.. roil in the murk of their own follys. 
-
-<details><summary>Academia</summary>
-
-I find the fixation on "academics" odd for a person capable of independent study and thought. Fixation on "sound scholarship" is a good thing - whether such is circulated via books, journals, blog posts, twitter threads or vAkyArtha-sabhA-s. Being prejudiced by "scholar got salary from some academy" is rather akin to "lineage-kanging" among so-called traditionalist Hindus.
-
-Oft, appeals to "academic consensus" reminds me of similar appeals to "traditional paNDits" in some online arguments.
-
-</details>
-
-
 ### सिद्धान्ताः अभ्युपगमाश्च (Tenets and Hypotheses)
 * **सिद्धान्तः:** प्रामाणिकपरीक्षया सिद्धः निर्णयः सिद्धान्तः।
   * **प्रतितन्त्रसिद्धान्तः:** यः निर्णयः स्वशास्त्रे स्वीकृतः, परन्तु अन्यशास्त्रेषु न अङ्गीकृतः (यथा— मीमांसकानां शब्दस्य नित्यत्ववादः नैयायिकैः नाङ्गीक्रियते)।
