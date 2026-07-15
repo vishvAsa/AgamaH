@@ -27,18 +27,18 @@ title = "Scope"
 किन्तु, न्यायस्य वचनाशयावगताव् उपकारकता वर्तते। तद् [अन्यत्रोक्तम्](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/2_speculation/sAraH_essence) । 
 
 ## प्रत्यक्षानुमान-व्याप्तिः
-प्रमाणान्तरगम्ये तु शास्त्र-प्राधान्यं न वर्ततय्  
+> प्रमाणान्तर-गम्ये तु शास्त्र-प्राधान्यं न वर्ततय्  
 
 इत्य् अतस्  
-तत्र विरोधः शक्यः।
+तत्र विरोधः शक्यः।  
 यथा - भूगोल-विषयः शास्त्रैकगम्यविषयो नास्ति -  
 अतः, शास्त्रं दुर्बलं प्रमाणान्तरविरुद्धम् प्रधानार्थे त्याज्यम्।
+
+"प्रतीति-व्यवहाराभ्यां वस्तु-सिद्धिः" इति हि न्यायः ।
 
 It is standard mImAMsA that  
 pratyaxa can and does cancel direct meanings of shAstras,  
 forcing one to resort to secondary or suggested meanings.
-
-
 
 Direct observation (extensible to experimental science) and inference is a valuable source of knowledge in some cases (even mokSha according to some), but not in others.
 

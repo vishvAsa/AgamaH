@@ -49,8 +49,10 @@ Like shaiva-tattvas, they explain emergence of a series of "hypostases".
   And this applies recursively - with outer effect having other outer effects.
 - "The outer effect is not the purpose or end of the inner activity; rather, it is simply the case that one falls out of the other and is concomitant with it."
   - Thence: "Hypostasis" is defined: underlyingness of an entity.
-- "For example, the inner activity of the sun (nuclear fusion, as we now know) has the outer effect of heat and light, themselves activities as well. Or the inner activity of a tree that is determined by the kind of tree it is (its genetic code, we would now say; the Neoplatonists spoke of an inherent formative principle, logos) results in the bearing of a particular kind of fruit; or again, thoughts and feelings internal to human beings express themselves in speech and actions."
-- "Furthermore, it is also the case that these outer activities will typically be productive of yet other outer activities that are ontologically more remote and derivative: Fruit serves as nourishment or poison for other individual life forms, and human speech and action constitute, over time, a person’s biography or a society’s history. "
+
+> "For example, the inner activity of the sun (nuclear fusion, as we now know) has the outer effect of heat and light, themselves activities as well. Or the inner activity of a tree that is determined by the kind of tree it is (its genetic code, we would now say; the Neoplatonists spoke of an inherent formative principle, logos) results in the bearing of a particular kind of fruit; or again, thoughts and feelings internal to human beings express themselves in speech and actions."
+
+> "Furthermore, it is also the case that these outer activities will typically be productive of yet other outer activities that are ontologically more remote and derivative: Fruit serves as nourishment or poison for other individual life forms, and human speech and action constitute, over time, a person’s biography or a society’s history. "
 
 ### Incessant Emanationism
 > "Pagan Neoplatonists were not creationists. Instead, they speculated that the process of the emergence of the universe from their divine principle, has gone on forever, just as it continues at this very moment and will continue to do so, sustaining a world without end. ... reality emerged from “the First” in coherent stages, in such a way that one stage functions as creative principle of the next."
@@ -129,20 +131,38 @@ and which furnish for Proclus the *classes* of Gods."
 ### Nature of Gods and myths
 See [sallustius](sallustius/).
 
-### Humans and henads
+
+
+## Being
+Being in the wider sense encompasses the hypostases of Being (that is, ontōs on or “real being”), Life, Intellect, Soul, and Nature. It’s everything other than the One. The principle of Being answers the question "what", while the principle of Unity/ To Hen answers the question "who".
+
+**Ontic** refers to the domain of **Being** (essence/ousia) and finite beings.
+
+
+### Emergence from henads
+Being as a kind of 'consensus reality' among henads. Being is constituted by the activity of Gods (who are actually super-essential henads).
+
+Polycentric manifold: the Gods are self-sufficient sources of Being itself; their “core” is unmediated oneness (*huparxis*). 
+
+> "Positing “the One” prior to Being, in the chain of hypostases, is not a matter of subordinating Being to some further singular entity. Rather, it establishes prior to being a distinct *mode of existence*, establishing *unity* (individuality) as the primary and originary attribute of each thing"- [EB](https://henadology.files.wordpress.com/2018/11/butler2018_article_bhaktiandhenadology.pdf).
+
+
+
+
+> "The difference between the God's self and Their power opens the space of Being, which is also a space of mediated relations between the Gods through the expression of Their powers."
+
+
+### Ontic unity
+- Beings (humans, souls, objects, ideas) possess ontic predicates and essences—they exist *within* Being rather than as its sources.
+- Ontic unity is formal and derived, not the absolute individuality of henads.
+
 > "It is by no means certain  
 > that there is a supra-essential "core" to our individuality  
 > that would place us on the same footing as the Gods.  
 > Platonists speak of a "flower" of our total self, on the one hand,  
 > and of how we are individuated by divine action, on the other." - EB
 
-## Being
-- Being in the wider sense encompasses the hypostases of Being (that is, ontōs on or “real being”), Life, Intellect, Soul, and Nature. It’s everything other than the One.
-- The principle of Being answers the question "what", while the principle of Unity/ To Hen answers the question "who".
-- "Positing “the One” prior to Being, in the chain of hypostases, is not a matter of subordinating Being to some further singular entity. Rather, it establishes prior to being a distinct *mode of existence*, establishing *unity* (individuality) as the primary and originary attribute of each thing"- [EB](https://henadology.files.wordpress.com/2018/11/butler2018_article_bhaktiandhenadology.pdf).
-- Being as a kind of 'consensus reality' among henads.
-- Being is constituted by the activity of Gods (who are actually super-essential henads).
-- "The difference between the God's self and Their power opens the space of Being, which is also a space of mediated relations between the Gods through the expression of Their powers."
+The core of humans etc. is the fabricated ontic unity, not the hyperessential henadic unity of the Gods.
 
 ## Nous - the Ideal realm
 - the outer activity and effect of the First must be nous - pure and absolute “Consciousness”.  Hence the the second “Hypostasis”.
@@ -172,12 +192,19 @@ See [sallustius](sallustius/).
 - Theurgy (θεουργία) describes the practice of rituals, sometimes seen as magical in nature, performed with the intention of invoking the action or evoking the presence of one or more deities, especially with the goal of achieving henosis (uniting with the divine) and perfecting oneself.
 - "no Neoplatonist, not even Plotinus, thinks that souls can permanently transcend Being. Most think the soul cannot transcend the cosmos."
 
-## Reversion to Unit
-Things revert upon Unity, therefore, not qua forms or beings but qua units. (Like the inert rock-like inert end-state of the naiyyAyika-s.)
+### Henosis
+Things revert upon (Ontic) Unity, therefore, not qua forms or beings but qua units. 
+
+Iamblichus indicates reversion only upto a "noetic principle" - so they have consciousness - so actually desirable -
+
+> “By means of this \[divine\] will,  
+> the Gods, being benevolent and gracious,  
+> shine their light generously on theurgists,  
+> calling their souls up to themselves and giving them unification \( *henosis*\),  
+> accustoming them—while they are yet in bodies—  
+> to be detached from their bodies and turned to their eternal and noetic principle” \( Iamblichus *DM* 41, 4– 11\).  
 
 This unit-formed reversion comes about not through intellectual contemplation, but through the direct action of units on units—that is, of Gods on individual beings. This also means that the hierarchical implication of "ascension" is fundamentally undermined, since every level of Being is illuminated directly by a corresponding class of supra-essential Gods, and hence reverts directly to the first principle—no "ladder" to climb.
-
-
 
 ## Ethics
 > "human existence is a striking representation of the cosmos as a whole, a microcosm in which all levels of being (Unity, Consciousness, Soul, Nature, Matter) are combined into one organic individual. A human being is therefore in the first instance not a social or political being, but a divine being"
