@@ -10,3 +10,5 @@ People who seek to find empirical evidence for reincarnation have collected case
 
 2. The less discussed type of case study (though some people have gathered over a hundred of them) is where the individual suddenly has that experience, usually as an adult. Here, they briefly slip into a vision lasting a few minutes to an hour, into a "different life" and experience it. Usually, the experience is clear enough for them to realize that they were participants in what they take to be a prior existence. Sometimes it is triggered as a "deja vu" like experience when they go to some place or meet someone. For some reason, this second type, despite being very vivid and potentially verifiable in cases like the first type, is largely neglected.
 
+## sUktas
+More than one vaidika has told me of a "deja vu", where, when they are learning sUkta-s they get some sUkta-s very quickly as though they had learnt it before. I've experienced the same too. However, no one reported any other specific memories like in this case.
