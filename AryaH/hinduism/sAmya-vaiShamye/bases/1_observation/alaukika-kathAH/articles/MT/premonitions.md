@@ -23,3 +23,15 @@ On the following Friday, the 17th, the telegraph boys were calling out, "Arrival
 My niece helped the people with hot coffee, etc., and no one lay down during the time from the discovery of the fire. One woman, a steerage passenger, went mad and jumped overboard. 
 
 The poor sailors who went into the hold were much burned; two lost their sight and are now in the Seamen's Home (or hospital) in Liverpool. The Captain visited my niece afterwards in Egremont, and complimented her, as did the doctor, on her coolness and firmness, upholding the frightened women in the cabin. She was very poorly after this terrible experience.
+
+## 9/11
+Over the years I have come across 5 people, 4 of whom had prognostic dreams of the 9/11 attacks; 1 of them had a prognostic vision while visiting the vicinity months before the attack. I believe there are several more out there. 
+
+These are dismissed as post facto rationalizations. Of course, I cannot access their inner states or ascertain whether they were lying, but that seems very unlikely given the effect it had on them -- almost like PTSD. 
+
+Then there is the case of the Japanese individual who remembered dying in 8/11?? and being reborn in Japan. Hence, I see these truly interesting phenomena worthy of recording and studying, unlike many other students of science.
+
+> I know a welsh man in my town who was riding a train to the world trade centre on 9/11. He claims he heard his deceased mother’s voice telling him to get off at one of the stops along the line and change trains. He rarely tells this story and does seem to truly believe it.
+
+That's interesting. It belongs a distinct class from the more direct premonitions.
+
