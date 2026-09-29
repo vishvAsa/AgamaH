@@ -29,7 +29,7 @@ Over the years I have come across 5 people, 4 of whom had prognostic dreams of t
 
 These are dismissed as post facto rationalizations. Of course, I cannot access their inner states or ascertain whether they were lying, but that seems very unlikely given the effect it had on them -- almost like PTSD. 
 
-Then there is the case of the Japanese individual who remembered dying in 8/11?? and being reborn in Japan. Hence, I see these truly interesting phenomena worthy of recording and studying, unlike many other students of science.
+Then there is the case of the Japanese individual who remembered dying in 9/11 and being reborn in Japan. Hence, I see these truly interesting phenomena worthy of recording and studying, unlike many other students of science.
 
 > I know a welsh man in my town who was riding a train to the world trade centre on 9/11. He claims he heard his deceased mother’s voice telling him to get off at one of the stops along the line and change trains. He rarely tells this story and does seem to truly believe it.
 
