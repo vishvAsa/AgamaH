@@ -152,3 +152,17 @@ that the argument was good and that it is natural to be misled.
 पक्षे श्रावकान् उद्दिश्य सारः प्रस्तोतव्यः, उपहासो वाऽपि कार्यः।
 
 Tricks for dealing with mala-fide debates or propaganda arguments from pretentious dunces:  [KV](http://indiafacts.org/responding-to-mehdi-hasan-how-hindus-should-engage-their-opponents/).
+
+## प्रयोजनम्
+Is debating on religion and philosophy useful?  
+One might say - "It isn't useful because most people don't care".  
+
+But the same applies to theoretical physics across centuries. Vast majority of humans don't care whether light is a particle or wave or both. Yet different conflicting theories are studied and debated rigourously.
+
+This is a good analogy. But the difference is this -  Only well trained physicists debate over physics. But with religion/ philosophy, any monkey who has never read any serious work on the subject has a strong opinion and aggressively puts it forth with little self-reflection.
+
+> physics has fixed set of rules. if metaphysics had fixed set of rules why this advaita vs dvaita argument?
+
+Haven't you heard of flat-earthers? They have their "rules and evidences".
+
+Just because rAmaNNa from guNTUr can't decide between flat-earth and spherical earth, it does not follow that timappa from mysore can't too. timappa would "debate" (rather mock) rAmaNNa for timepass, not seriously. He will more seriously debate a competent peer.
