@@ -28,6 +28,7 @@ title: Ananda addiction
 > \[[MT150918](https://manasataramgini.wordpress.com/2015/09/18/the-social-phantasmagorical-and-historical-journey/)\]
 
 ## Responses and moderation
+The purpose of shAstra is not _merely_ to attain "mental purity" or cheap "spiritual high". If one only wants that, one can become a buddhu(ist) or join some baba-ism. Rather, a crucial purpose is to achieve success & victory here and hereafter.
 
 - "A civilization like an organism can lay claim to success only if it can defeat such afflictions, continue surviving, and restore its past luster. I would say such a triumph did happen with the re-emergence of Empire at Saṃrāṭ Samudragupta aśvamedha." \[[MT150918](https://manasataramgini.wordpress.com/2015/09/18/the-social-phantasmagorical-and-historical-journey/)\] (By the ashvamedha, the kShAtra-pride's primacy, which implies dharma coming to the forefront, is clear.) But again, the likes of harShavardhana taking excessively to the bauddha-darshana are seen a few centuries later.
 - The concept of karma-yoga expounded in the bhagavadgItA moderates the dharma-negating effect of Ananda-pursuit to a great degree.
