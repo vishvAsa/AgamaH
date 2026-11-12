@@ -1,4 +1,7 @@
-## PREFACE TO SECOND EDITION
++++
+title = "01 PREFACE TO SECOND EDITION"
++++
+
 Butler's Translation of the "Odyssey" appeared originally in 1900, and
 The Authoress of the Odyssey in 1897. In the preface to the new edition
 of "The Authoress", which is published simultaneously with this new

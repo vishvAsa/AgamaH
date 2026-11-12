@@ -1,4 +1,7 @@
-## FOOTNOTES:
++++
+title = "२७-फ़ोओत्नोतेस्"
++++
+
 []{#linknote-1}
 
 [\[1\]](#linknoteref-1)\
@@ -1445,7 +1448,7 @@ the main entrance, and Melanthius explains that the mouth of the narrow
 passage (which was in the lands of Ulysses and his friends) commanded
 the only entrance by which help could come, so that there would be
 nothing gained by raising an alarm.\
-    As for the ῥῶγες of line 143, no commentator ancient or modern has
+As for the ῥῶγες of line 143, no commentator ancient or modern has
 been able to say what was intended---but whatever they were, Melanthius
 could never carry twelve shields, twelve helmets, and twelve spears.
 Moreover, where he could go the others could go also. If a dozen suitors
