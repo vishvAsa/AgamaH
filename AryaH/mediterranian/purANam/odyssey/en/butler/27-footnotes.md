@@ -2,6 +2,8 @@
 title = "२७-फ़ोओत्नोतेस्"
 +++
 
+::: chapter
+
 []{#linknote-1}
 
 [\[1\]](#linknoteref-1)\
@@ -222,7 +224,7 @@ cooking exactly in the Odyssean and Iliadic fashion.\]
 
 []{#linknote-29}
 
-[29\[\]](#linknoteref-29)\
+[\[29\]](#linknoteref-29)\
 \[ The geography of the Ægean as above described is correct, but is
 probably taken from the lost poem, the Nosti, the existence of which is
 referred to "Od." i. 326, 327 and 350, &c. A glance at the map will show
