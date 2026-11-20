@@ -2,6 +2,7 @@
 title = "ANCIENT INDIAN PHILOSOPHY"
 +++
 [[P380]]
+
 ## A BIRD'S-EYE VIEW
 
 A talk[^380_1] on ancient Indian philosophy[^380_2] may very well be prefaced with a brief statement of the main features which distinguish it from the philosophies of other peoples. Unlike many other philosophical systems, Indian philosophy is not merely a system of thought. It is essentially a system of life. Mere intellectual comprehension of the ultimate reality has never been the goal of Indian philosophers; they have always aimed at the spiritual realisation of that reality. Indian thinkers, in other words, have always striven to 'live' philosophy, rather than merely to 'learn' and 'teach' it. Ancient Sanskrit writers have used a very significant word to denote a system of philosophy, namely, *darśana*, which means immediate vision of the ultimate reality as against its mediate knowledge.
@@ -16,9 +17,15 @@ Secondly, most of the philosophical systems of ancient India claim to be mainly 
 
 Just as Indian philosophy transcends, in this manner, the realm of logic, it also transcends the realm of ethics. Ultimate philosophy, it is averred, must not be governed by the values of this phenomenal world, which determine ethical conduct and which are necessarily relative and not absolute. Indian philosophy is accordingly not mere intellectualism nor mere moralism. And yet, paradoxical as it may seem, ancient Indian philosophy has never remained an isolated phenomenon in social history. In India, philosophy and social development have influenced each other with very positive results. It may, however, be remembered, in this connection, that, though ancient India has produced a variety of philosophical systems, they are all marked by a peculiar unity of purpose. Such unity in diversity is, indeed, an outstanding feature of the entire Indian culture. Unlike most European philosophical systems, Indian philosophical systems, be it further noted, are not known after individual philosophers. It is, therefore, possible to trace the development of philosophical thought in ancient India without any reference to personalities.
 
+## Pre-Vedic and Vedic Origins
+
 It is customary to discover the origin of the entire ancient Indian thought and practice in the Veda. Such a view, however, is not altogether correct. For, doctrines like those of Yoga and atomism, which became prominent in some later philosophical systems, seem to have been almost unknown to the early Veda. It [[P382]] is, therefore, necessary to trace them to a source other than the Vedic Aryan. Some indications of these—particularly of Yoga—are now fortunately brought to light through the archaeological discoveries in the Indus valley. Indian philosophy—both orthodox and heterodox—must, therefore, be said to have been the result of the interaction of two principal currents of thought—the pre-Vedic indigenous Indian current of thought and the Vedic Aryan current of thought. In view of the paucity of material regarding the former, however, we have to begin with the Veda.
 
+### Vedic Religion and Ritualism
+
 The earliest Vedic texts, namely, the *Ṛg-veda* and the *Atharvaveda*, are, broadly speaking, collections of prayers and magical incantations respectively. Of philosophy, in the strictest sense of the term, we find in them but vague beginnings. They rather represent the two types of religion—the *Ṛg-veda*, which is a collection of hymns and prayers employed in nature-worship, fire-worship, hero-worship, and the Soma-cult represents the religion of the 'classes,' while the *Atharvaveda*, which contains incantations and formulas of magic and witchcraft, represents the religion of the 'masses' among the Vedic Indians. After a long and strenuous period of conquest and colonisation, the Vedic Aryans finally settled down in the fertile 'land of the seven rivers' and beyond. They soon felt secure and established fairly prosperous tribal principalities. This change in their way of life effected a change also in their religious outlook and practice. In their newly-acquired prosperity and leisure, their simple religion came to be elaborated into a complicated system of ritual. And, in course of time, the formal details of this ritual became so very complex that a new well-organized class of priests, who alone could master those details, arose in the Vedic society. As was expected, in order to serve their own end, these priests, soon enough, elevated sacrifice from being a means to an end to being an end in itself. The total result of all this was threefold. Firstly, the spirit of religion was neglected and emphasis came to be placed on its mere form. Secondly, since all this was being done in the name of the Veda, an attitude of blind acceptance was deliberately fostered among the common people so that they would unques- [[P383]] tioningly accept the interpretation which the priests chose to foist on the Veda. And lastly, one class, namely, the priestly class, secured domination over other classes in the society.
+
+### The Upaniṣads
 
 In a sense, this undue exaltation of sacrifice must be said to have prepared the way for the rise of the truly philosophical speculations in ancient India. For, the mechanical ritualism sponsored by the *Brāhmaṇa*-texts had its inevitable reaction in the form of a two-fold revolt—intellectual and social. The vanguards of this revolt were the teachers of the early *Upaniṣads*. They raised the banner of free thinking, and encouraged, among the people, an attitude of inquiry. They proclaimed that the spirit was more essential than the form. And they showed that religion and philosophy need not be the monopoly of any one class.
 
@@ -30,7 +37,11 @@ The religio-philosophical thought of the Veda has thus developed through the thr
 
 [^385_5]: It is true that Indian philosophy is often characterised as 'religious mysticism'. However, what is intended to be suggested here is that people are generally more amenable to some kind of religious practice than to mere philosophical contemplation.
 
+## Rise of Heterodox Systems
+
 This failure of the early *Upaniṣads* resulted in a spurt, of a sort, of the heterodox systems of thought, like Buddhism and Jainism, which, incidentally, had their roots in the pre-Vedic thought-complex. They took advantage of the intellectual atmosphere created by the *Upaniṣads*—particularly their refusal blindly to accept the authority of the Veda—as also of the philosophical and religious democracy envisaged by them. At the same time, they avoided the obvious weak points of the Upaniṣadic methods. Consequently these two, more especially Buddhism, became strong anti-Vedic forces, so much so that, on account of their onslaught, the Vedic way of life and thought was seriously jeopardized. In the development of the orthodox philosophical thought there thus ensued a kind of interregnum.
+
+## The Six Orthodox Systems
 
 But the spark kindled by the Vedas and the *Upaniṣads* was not altogether extinguished. There still were a large number of partisans of the Veda who bravely followed in the trail so finely blazed by their ancestors. They started a comprehensive movement for consolidating, systematising, and popularising the Vedic way of life and thought. One aspect of this great movement related to the orthodox philosophy. This latter now came to be properly organised in the form of six systems. In a manner more methodical than the *Upaniṣads*, these systems dealt with all the outstanding problems of philosophy. They made abundant use of logical reasoning. They became at once critical and constructive. In short, with the systems, Indian philosophy became truly self-conscious.
 
@@ -38,11 +49,19 @@ But the spark kindled by the Vedas and the *Upaniṣads* was not altogether exti
 
 [^386_6]: These six systems are – not inaptly – called systems of salvation. Cf. BASHAM, *The Wonder that was India*, 1971, 325 ff.
 
+### Vedānta
+
 The Vedānta aims at establishing a harmony among the apparently inconsistent and self-contradictory Upaniṣadic teachings. This it does by positing two points of view – the *pāramārthika* (absolute) point of view and the *vyāvahārika* (relative) point of view. It sets forth the Brahman-Ātman-identity as the absolute reality, and the phenomenal world as being only relatively real. On account of insufficient light, a rope appears like a serpent, which it really is not. When, however, a light is brought forth, the rope presents itself in its true nature. Similarly, as soon as true knowledge dawns, the phenomenal world vanishes, and the individual soul realises its identity with the cosmic self thus regaining its original character.
+
+### Sāṃkhya
 
 The Sāṃkhya teaches a metaphysical dualism. It enunciates two eternal independent entities, the Prakṛti and the Puruṣa. The Prakṛti (or matter) represents the state of equipoise of the three guṇas – sattva, rajas, and tamas. The Prakṛti is insentient but [[P387]] possesses the capacity to undergo modification. The Puruṣa (or the soul), on the other hand, is sentient but immune from any kind of modification. By some chance, the Puruṣa and the Prakṛti come in contact with each other. And, as the result of the 'seeing' on the part of the Puruṣa, the state of equipoise represented by the Prakṛti is disturbed and the process of the evolution of the universe starts. Apart from the dualism, another feature, which distinguishes the Sāṃkhya from the Vedānta, is its realism.
 
+### Vaiśeṣika
+
 The Vaiśeṣikas also are realists; they have propounded the doctrine of atomic pluralism. Their method is analytical and they have brought metaphysics closer to physics. According to them, in the beginning, there existed an infinite number of atoms, subtle and incomprehensible by human sense-organs, each atom being distinguishable from the other, and each possessing some specific quality. As the result of some initial urge, these atoms began to move and formed different physical combinations. The atoms, possessing the quality of odour, for instance, were thus grouped together and the earth was created. In this manner, the four elements came into being, and, out of them, this manifold universe. Side by side with the plurality of atoms, the Vaiśeṣikas also assume the existence of a plurality of souls. Incidentally, it is worth noting that, in their early forms, the three metaphysical systems, namely, the Vedānta, the Sāṃkhya, and the Vaiśeṣika, were 'godless' systems of thought.
+
+## Later Synthesis and Scholasticism
 
 The philosophy of the systems later on developed in two directions – each development, in its own way, inaugurating a glorious epoch in the history of Indian philosophy. The first development was in the direction of a popular synthesis of these systems – the best representative of such a synthesis being the *Bhagavad-gītā*. The second development was in the direction of scholastic elaboration of these systems, to which rich contributions have been made by the best brains of medieval India.
 

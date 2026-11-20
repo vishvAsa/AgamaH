@@ -5,6 +5,8 @@ title = "INDEX"
 
 (prepared by Dr. V. G. Rahurkar)
 
+## A
+
 - Ābhīras 246.
 - *ācāra* 363.
 - Ācāryas 262.
@@ -59,6 +61,9 @@ title = "INDEX"
 - *āveśa* 139.
 - *avidyā* 54, 58, 60.
 - *axis mundi* 159.
+
+## B
+
 - Baladeva 133.
 - *bali* 107, 375.
 - Bali-bandha 223.
@@ -85,6 +90,9 @@ title = "INDEX"
 - *Bṛhadāraṇyaka-Upaniṣad* 119, 345.
 - *Bṛhatsaṃhitā* 262, 362.
 - Buddhism 373.
+
+## C
+
 - Caitanya 123.
 - caste : origin and growth 85–90.
 - caste : present attitude 99–101.
@@ -101,6 +109,9 @@ title = "INDEX"
 - cosmology in the *Ṛgveda* 19f., 153–156.
 - creation 125–127.
 - creation : motive for 128ff.
+
+## D
+
 - *deha* 54ff.
 - *dharma* 69, 71.
 - Dharmaśāstras 363.
@@ -112,13 +123,22 @@ title = "INDEX"
 - Durkheim 111.
 - Dyaus 163, 165, 170–173, 186f.
 - Dyāvāpṛthivī 162f., 168–170, 185f.
+
+## E
+
 - empirical self (*jīva*) 48ff.
 - epistemological optimism 381.
 - ethics 130f.
 - evolutionary mythology 14f., 112f. 151.
+
+## F
+
 - family 76f.
 - female divinities 133–135.
 - Feuerbach 148.
+
+## G
+
 - Gaṇeśa 132f., 315–317.
 - Gaṅgā 376.
 - *Gītagovinda* 371f.
@@ -133,6 +153,9 @@ title = "INDEX"
 - *guṇa-dharma* 101.
 - *guṇas* 57.
 - Guptas 33ff.
+
+## H
+
 - heaven 189–193.
 - hell 193–195.
 - Hemādri 363.
@@ -168,6 +191,9 @@ title = "INDEX"
 - Hindu philosophy : systems 32, 38.
 - *Hiraṇyagarbha-sūkta* 160.
 - *homa* 107, 139f.
+
+## I
+
 - idolatry 106.
 - Indianisation 373.
 - Indian philosophy : main features 380–382.
@@ -179,12 +205,18 @@ title = "INDEX"
 - integral multiplicity 115.
 - *Īśa-Upaniṣad* 343.
 - *Īśvaragītā* 363.
+
+## J
+
 - *jāgrat* 48, 51.
 - *Jaiminīya-Brāhmaṇa* 338.
 - Jainism 373.
 - Jamadagni 378.
 - Jayadeva 371f.
 - *jīvanmukti* 60.
+
+## K
+
 - Kālamukha 305.
 - *Kalpasūtra* 348f.
 - Kaṃsa 215f., 220–223.
@@ -216,6 +248,9 @@ title = "INDEX"
 - *Kṛṣṇa-Yajurveda* 330–332.
 - *kṣam* 167.
 - Kulaśekhara 262.
+
+## L
+
 - Lakulīśa 304.
 - life of a forest-hermit (*vānaprastha*) 80.
 - life of a householder : *gṛhsthāśrama* 75–80.
@@ -226,6 +261,9 @@ title = "INDEX"
 - *lokas* 162 ff., 182–184.
 - *lokasaṃgraha* 29 f., 142, 199f., 202.
 - Lopamudrā 376.
+
+## M
+
 - macrocosm-microcosm 189.
 - Madhva 123.
 - Mādhyandina 332–334.
@@ -267,6 +305,9 @@ title = "INDEX"
 - Mūradevas 205, 234.
 - mysticism 146.
 - myth 108.
+
+## N
+
 - *nāka* 167.
 - Nārāyaṇa 144, 215, 256–261.
 - *Nārāyaṇīya* 123, 144, 258.
@@ -279,9 +320,14 @@ title = "INDEX"
 
 [[P392]]
 
+## O
+
 - Orendism 113.
 - orthodox philosophy : six systems 385ff.
 - OTTO 111.
+
+## P
+
 - pan-asuism 114, 118, 188.
 - Pāñcarātra 124, 260f., 366f.
 - *Pāñcarātra-Saṃhitās* 123.
@@ -324,6 +370,9 @@ title = "INDEX"
 - *puruṣārthas* 70f.
 - *Puruṣa-Sūkta* 156.
 - Pūrvamīmāṃsā 121f., 386.
+
+## R
+
 - Rādhā 263.
 - RADHAKRISHNAN 125.
 - *rājadharma* 31
@@ -344,6 +393,9 @@ title = "INDEX"
 - Ṛta 62, 157–159.
 - Ṛta-Varuṇa : mythological complex 15f.
 - Rudra 12, 107, 119f., 204f., 263–275, 375.
+
+## S
+
 - sacrifice 118.
 - sacrifice and world-process 188f.
 - sacrifice : underlying ideology 23f.
@@ -412,6 +464,9 @@ title = "INDEX"
 - *svapna* 49, 51.
 - *svarga* 189–193.
 - *Śvetāśvatara-Upaniṣad* 34, 119, 281–284, 346.
+
+## T
+
 - TAGORE 125.
 - *taijasa* 57.
 - *Taittirīya-Āraṇyaka* 340.
@@ -433,11 +488,17 @@ title = "INDEX"
 - Tṛṇadhūmāgni 376.
 - *turīyāvasthā* 51.
 - Tvaṣṭṛ 153.
+
+## U
+
 - unity in diversity 381.
 - *Upaniṣads* 28, 118f., 124, 126, 132, 196, 199, 201f., 341–348, 373f., 383–385.
 - *Upaniṣads* : strong and weak points 25f.
 - *Upa-Purāṇas* 362.
 - *urvī* 165.
+
+## V
+
 - Vaḍgalais 145.
 - Vaikhānasa 367.
 - Vaiśeṣika 121, 387.
@@ -482,8 +543,14 @@ title = "INDEX"
 - *vyāvahārika* 66.
 - *vyoman* 165f.
 - Vyūhas 123f., 139, 226–228, 240f.
+
+## W
+
 - water 159f., 181.
 - woman : role of 78–80.
+
+## Y
+
 - Yādava Kṛṣṇa 243–245.
 - *Yājñavalkyasmṛti* 363.
 - *Yajurveda* 327, 329f.
