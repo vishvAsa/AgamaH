@@ -1,6 +1,8 @@
 +++
 title = "UNIVERSE IN HINDU THOUGHT"
 +++
+Source: [TW](https://ia801800.us.archive.org/23/items/in.ernet.dli.2015.121155/2015.121155.Insights-Into-Hinduism_text.pdf)
+
 [[P149]]
 
 ## Lecture One[^149_1]

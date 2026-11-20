@@ -1,6 +1,8 @@
 +++
 title = "ANCIENT INDIAN PHILOSOPHY"
 +++
+Source: [TW](https://ia801800.us.archive.org/23/items/in.ernet.dli.2015.121155/2015.121155.Insights-Into-Hinduism_text.pdf)
+
 [[P380]]
 
 ## A BIRD'S-EYE VIEW

@@ -1,6 +1,8 @@
 +++
 title = "LITERATURE OF BRAHMANISM IN SANSKRIT"
 +++
+Source: [TW](https://ia801800.us.archive.org/23/items/in.ernet.dli.2015.121155/2015.121155.Insights-Into-Hinduism_text.pdf)
+
 [[P320]] The Brahmanic religion,[^320_1] in its different phases, can boast of a vast and traditionally continuous literature, which concerns itself, directly or indirectly, with the various aspects of that religion. An attempt will be made in this paper to present a connected historical account of this literature, from the age of the Veda down to about the end of the medieval period. Of course, on account of its necessary limitations, this survey will take into account only the more significant literary works; and, here too, special consideration will be given to such of these works as do not usually receive adequate treatment.
 
 [^320_1]: As will be seen, the term 'Brahmanic' is here used in a very wide sense.
