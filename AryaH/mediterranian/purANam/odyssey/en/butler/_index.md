@@ -1,5 +1,5 @@
 ---
-title: "The Odyssey (Butler Translation)"
+title: "+Butler"
 author: "Homer"
 translator: "Samuel Butler"
 language: "en"
